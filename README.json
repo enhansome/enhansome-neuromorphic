@@ -1,0 +1,391 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Neural Circuit Policies",
+          "description": "Neural Circuit Policies (NCPs) are designed sparse recurrent neural networks loosely inspired by the nervous system of the organism C. elegans. The goal of this package is to making working with NCPs in PyTorch and keras as easy as possible.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-14T13:50:44Z",
+            "owner": "mlech26l",
+            "repo": "ncps",
+            "stars": 2344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpikingJelly",
+          "description": "Open-source deep learning framework for Spiking Neural Network (SNN) based on PyTorch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T05:15:42Z",
+            "owner": "fangwei123456",
+            "repo": "spikingjelly",
+            "stars": 2098
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BindsNET",
+          "description": "Python package used for simulating spiking neural networks (SNNs) on CPUs or GPUs using PyTorch Tensor functionality. BindsNET is a spiking neural network simulation library geared towards the development of biologically inspired algorithms for machine learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T07:00:29Z",
+            "owner": "BindsNET",
+            "repo": "bindsnet",
+            "stars": 1692
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BrainCog",
+          "description": "BrainCog is an open source spiking neural network based brain-inspired cognitive intelligence engine for Brain-inspired Artificial Intelligence and brain simulation. The current version of BrainCog contains at least 50 functional spiking neural network algorithms including perception and learning, decision making, knowledge representation and reasoning, motor control, social cognition, etc. BrainCog also provide brain simulations to drosophila, rodent, monkey, and human brains at multiple scales based on spiking neural networks at multiple scales.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-06T13:37:53Z",
+            "owner": "BrainCog-X",
+            "repo": "Brain-Cog",
+            "stars": 643
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeNN",
+          "description": "GeNN is a GPU-enhanced Neuronal Network simulation environment based on code generation for Nvidia CUDA.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-01T07:05:40Z",
+            "owner": "genn-team",
+            "repo": "genn",
+            "stars": 279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PySNN",
+          "description": "Spiking neural network (SNN) framework written on top of PyTorch for efficient simulation of SNNs both on CPU and GPU.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-31T11:31:14Z",
+            "owner": "BasBuller",
+            "repo": "PySNN",
+            "stars": 233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anima (AnimaLM)",
+          "description": "Brain-inspired neural architecture implementing excitation-inhibition tension dynamics between expert groups. Models neural agonist-governor balance in transformers. Part of the TECS-L consciousness framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T10:19:21Z",
+            "owner": "dancinlab",
+            "repo": "anima",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Auryn",
+          "description": "Simulator for recurrent spiking neural networks with synaptic plasticity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-03-11T08:36:11Z",
+            "owner": "fzenke",
+            "repo": "auryn",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SPAIC",
+          "description": "Spike-based artificial intelligence computing platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-07T03:42:25Z",
+            "owner": "zju-bmi-lab",
+            "repo": "SPAIC",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CARLSim",
+          "description": "CARLsim is an efficient, easy-to-use, GPU-accelerated library for simulating large-scale spiking neural network (SNN) models with a high degree of biological detail.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-11-08T12:23:03Z",
+            "owner": "UCI-CARL",
+            "repo": "CARLsim6",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kaspersky Neuromorphic Platform",
+          "description": "The Kaspersky Neuromorphic Platform or KNP is a software platform for developing, training and executing spiking neural networks on a variety of computers. Platform contains totally spiking package, that allows to build and run spiking networks on CPU or AltAI neuromorphic hardware and ANN2SNN package, that can train spiking networks using Tensorflow and then run AltAI. Core of the platform was written in C++. KNP has fully-functional C++ and Python frameworks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-07T13:27:12Z",
+            "owner": "KasperskyLab",
+            "repo": "knp",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fugu",
+          "description": "Fugu is a flexible and customizable framework that uses computational neural graphs for optimizing and deploying architectures across multiple neuromorphic hardware platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-31T17:06:43Z",
+            "owner": "sandialabs",
+            "repo": "Fugu",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spikeflow",
+          "description": "Spiking neural networks in tensorflow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-04-21T02:08:54Z",
+            "owner": "colinator",
+            "repo": "spikeflow",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PeleNet",
+          "description": "Reservoir computing framework for Loihi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-09-23T12:49:12Z",
+            "owner": "sagacitysite",
+            "repo": "pelenet",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Spiking and Neuromorphic Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NIR",
+          "description": "set of computational primitives, shared across different neuromorphic frameworks and technology stacks. Currently supported by 9 simulators and 5 hardware platforms, allowing users to seamlessly move between any of these platforms. Reference implementation was written in Python, can save network structure (also supports layers) and events activity.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NIR visualizer",
+              "description": "turn NIR definitions into a nice graph, the original publication serving as a template.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-03T08:11:55Z",
+                "owner": "open-neuromorphic",
+                "repo": "nirviz",
+                "stars": 3
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-13T11:11:18Z",
+            "owner": "neuromorphs",
+            "repo": "NIR",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SONATA",
+          "description": "Scalable Open Data Format for multiscale neuronal network models and simulation output, jointly developed by the Allen Institute for Brain Science (AIBS) and the Blue Brain Project (BBP) of the École polytechnique fédérale de Lausanne (EPFL). The design and architecture of SONATA builds on both organizations’ expertise with large-scale high-performance network simulation, visualization and analysis. JSON, CSV used for metadata, HDF5 used for data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-24T23:44:07Z",
+            "owner": "AllenInstitute",
+            "repo": "sonata",
+            "stars": 66
+          }
+        }
+      ],
+      "title": "Formats"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AEStream",
+          "description": "sends event-based data from A to B. AEStream is both a command-line tool an a C++/Python library with built-in GPU-acceleration for use with PyTorch, and Jax. It supports reading and writing from files, event cameras, network protocols, and visualization tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-08-05T09:37:31Z",
+            "owner": "aestream",
+            "repo": "aestream",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tonic",
+          "description": "Tonic is a tool created by SynSense, to facilitate the download, manipulation and loading of event-based/spike-based data. It's like PyTorch Vision but for neuromorphic data. Tonic provides publicly available event-based vision and audio datasets and event transformations. The package is fully compatible with PyTorch Vision/Audio, giving you the flexibility you need.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-07T09:15:31Z",
+            "owner": "BrainCog-X",
+            "repo": "tonic_braincog",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Datasets and Dataset Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Institutes and Groups"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Leaky Integrate and Fire (LIF) model implementation for FPGA",
+          "description": "FPGA example.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2025-11-04T14:37:54Z",
+            "owner": "ljiwoon",
+            "repo": "Spiking-Neural-Network-on-FPGA",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Intel Loihi 2",
+          "description": "Intel Loihi 2 NPU:",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "INRC Ecosystem",
+              "description": "models, modules, algorithms and applications developed by the INRC Community using nxsdk to run on the Intel Loihi Platform. Archived. Not supported by Intel now.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-10-09T19:38:26Z",
+                "owner": "intel-nrc-ecosystem",
+                "repo": "models",
+                "stars": 83
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Brian2Loihi",
+              "description": "Brian2-based Loihi simulator. The neuron and synapse model results in an exact match to Loihi, the pre- and post-synaptic traces have very small variations from the Loihi chip due to stochastic rounding.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-12-06T08:11:56Z",
+                "owner": "sagacitysite",
+                "repo": "brian2_loihi",
+                "stars": 30
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Hardware"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Event-based Vision Resources",
+          "description": "Big articles list.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-07T07:54:41Z",
+            "owner": "uzh-rpg",
+            "repo": "event-based_vision_resources",
+            "stars": 3616
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Neuroscience",
+          "description": "Computational Neuro Science repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-07-15T21:36:06Z",
+            "owner": "realamirhe",
+            "repo": "awesome-computational-neuro-science",
+            "stars": 76
+          }
+        }
+      ],
+      "title": "Footnotes"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T11:41:29.870Z",
+    "original_repository": "artiomn/awesome-neuromorphic",
+    "original_repository_sha": "dab079cfdc9eb7494496561fee9363380b12c9ef",
+    "enhanced_repository": "enhansome/enhansome-neuromorphic",
+    "enhanced_repository_description": null,
+    "title": "Awesome Neuromorphic with stars"
+  }
+}
