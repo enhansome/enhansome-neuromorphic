@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T05:15:42Z",
+            "last_commit": "2026-08-13T18:23:44Z",
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2098
+            "stars": 2099
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-09T07:00:29Z",
             "owner": "BindsNET",
             "repo": "bindsnet",
-            "stars": 1692
+            "stars": 1693
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-07-01T07:05:40Z",
             "owner": "genn-team",
             "repo": "genn",
-            "stars": 279
+            "stars": 280
           }
         },
         {
@@ -95,7 +95,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T10:19:21Z",
+            "last_commit": "2026-08-14T08:31:28Z",
             "owner": "dancinlab",
             "repo": "anima",
             "stars": 142
@@ -356,10 +356,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-07-07T07:54:41Z",
+            "last_commit": "2026-08-14T06:30:09Z",
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3616
+            "stars": 3619
           }
         },
         {
@@ -381,7 +381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T11:41:29.870Z",
+    "last_updated": "2026-08-14T11:39:20.730Z",
     "original_repository": "artiomn/awesome-neuromorphic",
     "original_repository_sha": "dab079cfdc9eb7494496561fee9363380b12c9ef",
     "enhanced_repository": "enhansome/enhansome-neuromorphic",
