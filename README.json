@@ -28,7 +28,7 @@
             "last_commit": "2026-08-13T18:23:44Z",
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2099
+            "stars": 2102
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-09T07:00:29Z",
             "owner": "BindsNET",
             "repo": "bindsnet",
-            "stars": 1693
+            "stars": 1694
           }
         },
         {
@@ -95,7 +95,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T08:31:28Z",
+            "last_commit": "2026-08-14T22:34:33Z",
             "owner": "dancinlab",
             "repo": "anima",
             "stars": 142
@@ -228,7 +228,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-13T11:11:18Z",
+            "last_commit": "2026-08-14T15:49:21Z",
             "owner": "neuromorphs",
             "repo": "NIR",
             "stars": 178
@@ -381,7 +381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T11:39:20.730Z",
+    "last_updated": "2026-08-15T11:13:37.088Z",
     "original_repository": "artiomn/awesome-neuromorphic",
     "original_repository_sha": "dab079cfdc9eb7494496561fee9363380b12c9ef",
     "enhanced_repository": "enhansome/enhansome-neuromorphic",
