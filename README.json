@@ -14,7 +14,7 @@
             "last_commit": "2024-08-14T13:50:44Z",
             "owner": "mlech26l",
             "repo": "ncps",
-            "stars": 2344
+            "stars": 2346
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T18:23:44Z",
+            "last_commit": "2026-08-16T11:07:14Z",
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2102
+            "stars": 2103
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-09T07:00:29Z",
             "owner": "BindsNET",
             "repo": "bindsnet",
-            "stars": 1694
+            "stars": 1695
           }
         },
         {
@@ -359,7 +359,7 @@
             "last_commit": "2026-08-14T06:30:09Z",
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3619
+            "stars": 3622
           }
         },
         {
@@ -381,7 +381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T11:13:37.088Z",
+    "last_updated": "2026-08-16T11:13:35.487Z",
     "original_repository": "artiomn/awesome-neuromorphic",
     "original_repository_sha": "dab079cfdc9eb7494496561fee9363380b12c9ef",
     "enhanced_repository": "enhansome/enhansome-neuromorphic",
