@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 290199641,
             "language": "Python",
             "last_commit": "2024-08-14T13:50:44Z",
             "owner": "mlech26l",
             "repo": "ncps",
-            "stars": 2345
+            "stars": 2344
           }
         },
         {
@@ -24,8 +25,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 228557692,
             "language": "Python",
-            "last_commit": "2026-08-17T12:30:31Z",
+            "last_commit": "2026-08-19T09:41:09Z",
             "owner": "fangwei123456",
             "repo": "spikingjelly",
             "stars": 2104
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120948040,
             "language": "Python",
             "last_commit": "2026-08-09T07:00:29Z",
             "owner": "BindsNET",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 422522106,
             "language": "Python",
             "last_commit": "2025-11-06T13:37:53Z",
             "owner": "BrainCog-X",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24633934,
             "language": "C++",
             "last_commit": "2026-07-01T07:05:40Z",
             "owner": "genn-team",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 199586819,
             "language": "Python",
             "last_commit": "2024-07-31T11:31:14Z",
             "owner": "BasBuller",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1190256645,
             "language": "Python",
             "last_commit": "2026-08-14T22:34:33Z",
             "owner": "dancinlab",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16260653,
             "language": "C++",
             "last_commit": "2025-03-11T08:36:11Z",
             "owner": "fzenke",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 447090438,
             "language": "Python",
             "last_commit": "2026-05-07T03:42:25Z",
             "owner": "zju-bmi-lab",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 445964927,
             "language": "C++",
             "last_commit": "2025-11-08T12:23:03Z",
             "owner": "UCI-CARL",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 883826631,
             "language": "C++",
             "last_commit": "2026-08-07T13:27:12Z",
             "owner": "KasperskyLab",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 465425461,
             "language": "Python",
             "last_commit": "2026-03-31T17:06:43Z",
             "owner": "sandialabs",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 168064817,
             "language": "Jupyter Notebook",
             "last_commit": "2019-04-21T02:08:54Z",
             "owner": "colinator",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 223164014,
             "language": "Jupyter Notebook",
             "last_commit": "2022-09-23T12:49:12Z",
             "owner": "sagacitysite",
@@ -203,7 +217,7 @@
       "title": "Spiking and Neuromorphic Frameworks"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -217,6 +231,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 994853557,
                 "language": "Python",
                 "last_commit": "2026-07-03T08:11:55Z",
                 "owner": "open-neuromorphic",
@@ -227,6 +242,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 661110494,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-17T15:30:29Z",
             "owner": "neuromorphs",
@@ -241,6 +257,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111609058,
             "language": "Python",
             "last_commit": "2025-11-24T23:44:07Z",
             "owner": "AllenInstitute",
@@ -252,7 +269,7 @@
       "title": "Formats"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -261,6 +278,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 280219781,
             "language": "C++",
             "last_commit": "2025-08-05T09:37:31Z",
             "owner": "aestream",
@@ -275,6 +293,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 521475934,
             "language": "Python",
             "last_commit": "2023-01-07T09:15:31Z",
             "owner": "BrainCog-X",
@@ -286,12 +305,7 @@
       "title": "Datasets and Dataset Tools"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Institutes and Groups"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -300,6 +314,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1089582731,
             "language": null,
             "last_commit": "2025-11-04T14:37:54Z",
             "owner": "ljiwoon",
@@ -319,6 +334,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 237314721,
                 "language": "Jupyter Notebook",
                 "last_commit": "2023-10-09T19:38:26Z",
                 "owner": "intel-nrc-ecosystem",
@@ -333,6 +349,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 347937113,
                 "language": "Python",
                 "last_commit": "2021-12-06T08:11:56Z",
                 "owner": "sagacitysite",
@@ -346,7 +363,7 @@
       "title": "Hardware"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -355,6 +372,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95533189,
             "language": null,
             "last_commit": "2026-08-14T06:30:09Z",
             "owner": "uzh-rpg",
@@ -369,6 +387,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 256761737,
             "language": "Jupyter Notebook",
             "last_commit": "2025-07-15T21:36:06Z",
             "owner": "realamirhe",
@@ -381,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T11:18:39.112Z",
+    "last_updated": "2026-08-19T11:18:40.472Z",
     "original_repository": "artiomn/awesome-neuromorphic",
     "original_repository_sha": "dab079cfdc9eb7494496561fee9363380b12c9ef",
     "enhanced_repository": "enhansome/enhansome-neuromorphic",
