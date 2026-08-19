@@ -377,7 +377,7 @@
             "last_commit": "2026-08-14T06:30:09Z",
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3624
+            "stars": 3625
           }
         },
         {
@@ -400,8 +400,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T11:18:40.472Z",
+    "last_updated": "2026-08-19T12:43:24.118Z",
     "original_repository": "artiomn/awesome-neuromorphic",
+    "original_repository_id": 614376998,
     "original_repository_sha": "dab079cfdc9eb7494496561fee9363380b12c9ef",
     "enhanced_repository": "enhansome/enhansome-neuromorphic",
     "enhanced_repository_description": null,
