@@ -60,7 +60,7 @@
             "last_commit": "2025-11-06T13:37:53Z",
             "owner": "BrainCog-X",
             "repo": "Brain-Cog",
-            "stars": 643
+            "stars": 644
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-14T22:34:33Z",
             "owner": "dancinlab",
             "repo": "anima",
-            "stars": 142
+            "stars": 143
           }
         },
         {
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:43:24.118Z",
+    "last_updated": "2026-08-20T11:19:59.728Z",
     "original_repository": "artiomn/awesome-neuromorphic",
     "original_repository_id": 614376998,
     "original_repository_sha": "dab079cfdc9eb7494496561fee9363380b12c9ef",
