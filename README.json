@@ -27,10 +27,10 @@
             "archived": false,
             "id": 228557692,
             "language": "Python",
-            "last_commit": "2026-08-19T09:41:09Z",
+            "last_commit": "2026-08-21T09:50:13Z",
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2104
+            "stars": 2106
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 120948040,
             "language": "Python",
-            "last_commit": "2026-08-09T07:00:29Z",
+            "last_commit": "2026-08-20T15:19:52Z",
             "owner": "BindsNET",
             "repo": "bindsnet",
-            "stars": 1697
+            "stars": 1695
           }
         },
         {
@@ -244,7 +244,7 @@
             "archived": false,
             "id": 661110494,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-17T15:30:29Z",
+            "last_commit": "2026-08-20T12:58:47Z",
             "owner": "neuromorphs",
             "repo": "NIR",
             "stars": 179
@@ -377,7 +377,7 @@
             "last_commit": "2026-08-14T06:30:09Z",
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3625
+            "stars": 3627
           }
         },
         {
@@ -400,10 +400,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T11:19:59.728Z",
+    "last_updated": "2026-08-21T11:19:02.518Z",
     "original_repository": "artiomn/awesome-neuromorphic",
     "original_repository_id": 614376998,
-    "original_repository_sha": "dab079cfdc9eb7494496561fee9363380b12c9ef",
+    "original_repository_sha": "85805039c80976720360d05ae72010861f6def49",
     "enhanced_repository": "enhansome/enhansome-neuromorphic",
     "enhanced_repository_description": null,
     "title": "Awesome Neuromorphic with stars"
