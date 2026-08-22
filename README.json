@@ -27,7 +27,7 @@
             "archived": false,
             "id": 228557692,
             "language": "Python",
-            "last_commit": "2026-08-21T09:50:13Z",
+            "last_commit": "2026-08-21T18:32:04Z",
             "owner": "fangwei123456",
             "repo": "spikingjelly",
             "stars": 2106
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 883826631,
             "language": "C++",
-            "last_commit": "2026-08-07T13:27:12Z",
+            "last_commit": "2026-08-21T11:27:39Z",
             "owner": "KasperskyLab",
             "repo": "knp",
             "stars": 52
@@ -377,7 +377,7 @@
             "last_commit": "2026-08-14T06:30:09Z",
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3627
+            "stars": 3629
           }
         },
         {
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T11:19:02.518Z",
+    "last_updated": "2026-08-22T11:14:33.298Z",
     "original_repository": "artiomn/awesome-neuromorphic",
     "original_repository_id": 614376998,
     "original_repository_sha": "85805039c80976720360d05ae72010861f6def49",

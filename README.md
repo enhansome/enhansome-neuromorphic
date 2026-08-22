@@ -31,7 +31,7 @@ A curated list of awesome spiking or neuromorphic frameworks, libraries, resourc
 * [Auryn](https://github.com/fzenke/auryn) ⭐ 110 | 🐛 2 | 🌐 C++ | 📅 2025-03-11 - Simulator for recurrent spiking neural networks with synaptic plasticity.
 * [SPAIC](https://github.com/ZhejianglabNCRC/SPAIC) ⭐ 104 | 🐛 0 | 🌐 Python | 📅 2026-05-07 - Spike-based artificial intelligence computing platform.
 * [CARLSim](https://github.com/UCI-CARL/CARLsim6) ⭐ 59 | 🐛 18 | 🌐 C++ | 📅 2025-11-08 - CARLsim is an efficient, easy-to-use, GPU-accelerated library for simulating large-scale spiking neural network (SNN) models with a high degree of biological detail.
-* [Kaspersky Neuromorphic Platform](https://github.com/KasperskyLab/knp) ⭐ 52 | 🐛 40 | 🌐 C++ | 📅 2026-08-07 - The Kaspersky Neuromorphic Platform or KNP is a software platform for developing, training and executing spiking neural networks on a variety of computers. Platform contains totally spiking package, that allows to build and run spiking networks on CPU or AltAI neuromorphic hardware and ANN2SNN package, that can train spiking networks using Tensorflow and then run AltAI. Core of the platform was written in C++. KNP has fully-functional C++ and Python frameworks.
+* [Kaspersky Neuromorphic Platform](https://github.com/KasperskyLab/knp) ⭐ 52 | 🐛 39 | 🌐 C++ | 📅 2026-08-21 - The Kaspersky Neuromorphic Platform or KNP is a software platform for developing, training and executing spiking neural networks on a variety of computers. Platform contains totally spiking package, that allows to build and run spiking networks on CPU or AltAI neuromorphic hardware and ANN2SNN package, that can train spiking networks using Tensorflow and then run AltAI. Core of the platform was written in C++. KNP has fully-functional C++ and Python frameworks.
 * [Fugu](https://github.com/sandialabs/Fugu) ⭐ 41 | 🐛 3 | 🌐 Python | 📅 2026-03-31 - Fugu is a flexible and customizable framework that uses computational neural graphs for optimizing and deploying  architectures across multiple neuromorphic hardware platforms.
 * [spikeflow](https://github.com/colinator/spikeflow) ⭐ 33 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2019-04-21 - Spiking neural networks in tensorflow.
 * [PeleNet](https://github.com/sagacitysite/pelenet) ⭐ 14 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-09-23 - Reservoir computing framework for Loihi.
@@ -58,7 +58,7 @@ A curated list of awesome spiking or neuromorphic frameworks, libraries, resourc
 ## Robotic Toolkits
 
 * [DART](https://dart.readthedocs.io/en/latest/) - Dynamic Animation and Robotics Toolkit.
-* [Unity Robotics Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) ⭐ 2,562 | 🐛 57 | 🌐 C# | 📅 2024-11-26 - list with robotics simulation tools in Unity.
+* [Unity Robotics Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) ⭐ 2,563 | 🐛 57 | 🌐 C# | 📅 2024-11-26 - list with robotics simulation tools in Unity.
 
 ## Formats
 
@@ -134,9 +134,9 @@ SynSense focuses on the commercialization of neuromorphic intelligence, based on
 
 ## Footnotes
 
-* [Event-based Vision Resources](https://github.com/uzh-rpg/event-based_vision_resources#neuromorphic-systems) ⭐ 3,627 | 🐛 1 | 📅 2026-08-14 - Big articles list.
+* [Event-based Vision Resources](https://github.com/uzh-rpg/event-based_vision_resources#neuromorphic-systems) ⭐ 3,629 | 🐛 1 | 📅 2026-08-14 - Big articles list.
 * [Awesome Neuroscience](https://github.com/realamirhe/awesome-computational-neuro-science) ⭐ 76 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-07-15 - Computational Neuro Science repository.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
