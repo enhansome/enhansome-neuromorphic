@@ -27,10 +27,10 @@
             "archived": false,
             "id": 228557692,
             "language": "Python",
-            "last_commit": "2026-08-21T18:32:04Z",
+            "last_commit": "2026-08-23T11:04:51Z",
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2106
+            "stars": 2107
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2025-11-06T13:37:53Z",
             "owner": "BrainCog-X",
             "repo": "Brain-Cog",
-            "stars": 644
+            "stars": 645
           }
         },
         {
@@ -377,7 +377,7 @@
             "last_commit": "2026-08-14T06:30:09Z",
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3629
+            "stars": 3630
           }
         },
         {
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T11:14:33.298Z",
+    "last_updated": "2026-08-23T11:14:48.062Z",
     "original_repository": "artiomn/awesome-neuromorphic",
     "original_repository_id": 614376998,
     "original_repository_sha": "85805039c80976720360d05ae72010861f6def49",
