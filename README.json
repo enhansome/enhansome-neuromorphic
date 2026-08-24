@@ -72,7 +72,7 @@
             "archived": false,
             "id": 24633934,
             "language": "C++",
-            "last_commit": "2026-08-24T09:14:08Z",
+            "last_commit": "2026-08-24T14:46:38Z",
             "owner": "genn-team",
             "repo": "genn",
             "stars": 280
@@ -215,6 +215,48 @@
         }
       ],
       "title": "Spiking and Neuromorphic Frameworks"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "snn_toolbox",
+          "description": "The SNN conversion toolbox (SNN-TB) is a framework to transform rate-based artificial neural networks into spiking neural networks, and to run them using various spike encodings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 64289132,
+            "language": "Python",
+            "last_commit": "2023-01-13T10:01:01Z",
+            "owner": "NeuromorphicProcessorProject",
+            "repo": "snn_toolbox",
+            "stars": 399
+          }
+        }
+      ],
+      "title": "ANN2SNN Converters"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Unity Robotics Hub",
+          "description": "list with robotics simulation tools in Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 298347380,
+            "language": "C#",
+            "last_commit": "2024-11-26T12:02:53Z",
+            "owner": "Unity-Technologies",
+            "repo": "Unity-Robotics-Hub",
+            "stars": 2563
+          }
+        }
+      ],
+      "title": "Robotic Toolkits"
     },
     {
       "description": null,
@@ -400,7 +442,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:20:06.334Z",
+    "last_updated": "2026-08-24T14:48:50.578Z",
     "original_repository": "artiomn/awesome-neuromorphic",
     "original_repository_id": 614376998,
     "original_repository_sha": "85805039c80976720360d05ae72010861f6def49",
