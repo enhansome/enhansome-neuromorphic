@@ -22,7 +22,7 @@ A curated list of awesome spiking or neuromorphic frameworks, libraries, resourc
 ## Spiking and Neuromorphic Frameworks
 
 * [Neural Circuit Policies](https://github.com/mlech26l/ncps) ⭐ 2,344 | 🐛 28 | 🌐 Python | 📅 2024-08-14 - Neural Circuit Policies (NCPs) are designed sparse recurrent neural networks loosely inspired by the nervous system of the organism C. elegans. The goal of this package is to making working with NCPs in PyTorch and keras as easy as possible.
-* [SpikingJelly](https://github.com/fangwei123456/spikingjelly) ⭐ 2,107 | 🐛 126 | 🌐 Python | 📅 2026-08-23 - Open-source deep learning framework for Spiking Neural Network (SNN) based on PyTorch.
+* [SpikingJelly](https://github.com/fangwei123456/spikingjelly) ⭐ 2,108 | 🐛 127 | 🌐 Python | 📅 2026-08-25 - Open-source deep learning framework for Spiking Neural Network (SNN) based on PyTorch.
 * [BindsNET](https://github.com/BindsNET/bindsnet) ⭐ 1,695 | 🐛 15 | 🌐 Python | 📅 2026-08-20 - Python package used for simulating spiking neural networks (SNNs) on CPUs or GPUs using PyTorch Tensor functionality. BindsNET is a spiking neural network simulation library geared towards the development of biologically inspired algorithms for machine learning.
 * [BrainCog](https://github.com/BrainCog-X/Brain-Cog) ⭐ 645 | 🐛 30 | 🌐 Python | 📅 2025-11-06 - BrainCog is an open source spiking neural network based brain-inspired cognitive intelligence engine for Brain-inspired Artificial Intelligence and brain simulation. The current version of BrainCog contains at least 50 functional spiking neural network algorithms including perception and learning, decision making, knowledge representation and reasoning, motor control, social cognition, etc. BrainCog also provide brain simulations to drosophila, rodent, monkey, and human brains at multiple scales based on spiking neural networks at multiple scales.
 * [GeNN](https://github.com/genn-team/genn) ⭐ 280 | 🐛 45 | 🌐 C++ | 📅 2026-08-24 - GeNN is a GPU-enhanced Neuronal Network simulation environment based on code generation for Nvidia CUDA.
@@ -57,7 +57,7 @@ A curated list of awesome spiking or neuromorphic frameworks, libraries, resourc
 
 ## Robotic Toolkits
 
-* [Unity Robotics Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) ⭐ 2,563 | 🐛 57 | 🌐 C# | 📅 2024-11-26 - list with robotics simulation tools in Unity.
+* [Unity Robotics Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) ⭐ 2,564 | 🐛 57 | 🌐 C# | 📅 2024-11-26 - list with robotics simulation tools in Unity.
 * [DART](https://dart.readthedocs.io/en/latest/) - Dynamic Animation and Robotics Toolkit.
 
 ## Formats
@@ -134,9 +134,9 @@ SynSense focuses on the commercialization of neuromorphic intelligence, based on
 
 ## Footnotes
 
-* [Event-based Vision Resources](https://github.com/uzh-rpg/event-based_vision_resources#neuromorphic-systems) ⭐ 3,631 | 🐛 1 | 📅 2026-08-14 - Big articles list.
+* [Event-based Vision Resources](https://github.com/uzh-rpg/event-based_vision_resources#neuromorphic-systems) ⭐ 3,633 | 🐛 1 | 📅 2026-08-14 - Big articles list.
 * [Awesome Neuroscience](https://github.com/realamirhe/awesome-computational-neuro-science) ⭐ 76 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-07-15 - Computational Neuro Science repository.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
