@@ -57,7 +57,7 @@ A curated list of awesome spiking or neuromorphic frameworks, libraries, resourc
 
 ## Robotic Toolkits
 
-* [Unity Robotics Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) ⭐ 2,564 | 🐛 57 | 🌐 C# | 📅 2024-11-26 - list with robotics simulation tools in Unity.
+* [Unity Robotics Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) ⭐ 2,565 | 🐛 57 | 🌐 C# | 📅 2024-11-26 - list with robotics simulation tools in Unity.
 * [DART](https://dart.readthedocs.io/en/latest/) - Dynamic Animation and Robotics Toolkit.
 
 ## Formats

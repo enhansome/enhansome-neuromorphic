@@ -27,7 +27,7 @@
             "archived": false,
             "id": 228557692,
             "language": "Python",
-            "last_commit": "2026-08-25T06:28:09Z",
+            "last_commit": "2026-08-25T10:17:36Z",
             "owner": "fangwei123456",
             "repo": "spikingjelly",
             "stars": 2108
@@ -252,7 +252,7 @@
             "last_commit": "2024-11-26T12:02:53Z",
             "owner": "Unity-Technologies",
             "repo": "Unity-Robotics-Hub",
-            "stars": 2564
+            "stars": 2565
           }
         }
       ],
@@ -442,7 +442,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:40:27.795Z",
+    "last_updated": "2026-08-25T11:20:43.442Z",
     "original_repository": "artiomn/awesome-neuromorphic",
     "original_repository_id": 614376998,
     "original_repository_sha": "85805039c80976720360d05ae72010861f6def49",
