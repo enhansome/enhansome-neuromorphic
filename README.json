@@ -15,7 +15,7 @@
             "last_commit": "2024-08-14T13:50:44Z",
             "owner": "mlech26l",
             "repo": "ncps",
-            "stars": 2344
+            "stars": 2345
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 228557692,
             "language": "Python",
-            "last_commit": "2026-08-25T10:17:36Z",
+            "last_commit": "2026-08-26T11:21:08Z",
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2108
+            "stars": 2109
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2024-11-26T12:02:53Z",
             "owner": "Unity-Technologies",
             "repo": "Unity-Robotics-Hub",
-            "stars": 2565
+            "stars": 2566
           }
         }
       ],
@@ -419,7 +419,7 @@
             "last_commit": "2026-08-14T06:30:09Z",
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3633
+            "stars": 3634
           }
         },
         {
@@ -442,7 +442,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T11:20:43.442Z",
+    "last_updated": "2026-08-26T11:22:02.437Z",
     "original_repository": "artiomn/awesome-neuromorphic",
     "original_repository_id": 614376998,
     "original_repository_sha": "85805039c80976720360d05ae72010861f6def49",
