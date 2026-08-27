@@ -27,10 +27,10 @@
             "archived": false,
             "id": 228557692,
             "language": "Python",
-            "last_commit": "2026-08-27T10:23:45Z",
+            "last_commit": "2026-08-27T13:07:20Z",
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2111
+            "stars": 2112
           }
         },
         {
@@ -286,7 +286,7 @@
             "archived": false,
             "id": 661110494,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-24T01:50:55Z",
+            "last_commit": "2026-08-27T14:08:27Z",
             "owner": "neuromorphs",
             "repo": "NIR",
             "stars": 179
@@ -442,7 +442,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:53:40.235Z",
+    "last_updated": "2026-08-27T20:52:23.593Z",
     "original_repository_info": {
       "archived": false,
       "id": 614376998,
