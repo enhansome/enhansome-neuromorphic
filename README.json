@@ -27,10 +27,10 @@
             "archived": false,
             "id": 228557692,
             "language": "Python",
-            "last_commit": "2026-08-26T11:21:08Z",
+            "last_commit": "2026-08-27T10:23:45Z",
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2109
+            "stars": 2111
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2025-11-06T13:37:53Z",
             "owner": "BrainCog-X",
             "repo": "Brain-Cog",
-            "stars": 645
+            "stars": 646
           }
         },
         {
@@ -442,9 +442,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T11:22:02.437Z",
-    "original_repository": "artiomn/awesome-neuromorphic",
-    "original_repository_id": 614376998,
+    "last_updated": "2026-08-27T11:53:40.235Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 614376998,
+      "language": null,
+      "last_commit": "2026-08-20T18:11:41Z",
+      "owner": "artiomn",
+      "repo": "awesome-neuromorphic",
+      "stars": 60
+    },
     "original_repository_sha": "85805039c80976720360d05ae72010861f6def49",
     "enhanced_repository": "enhansome/enhansome-neuromorphic",
     "enhanced_repository_description": null,
