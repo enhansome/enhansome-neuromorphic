@@ -16,7 +16,8 @@
             "owner": "mlech26l",
             "repo": "ncps",
             "stars": 2345
-          }
+          },
+          "first_seen": "2026-08-28T21:17:23.102Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 228557692,
             "language": "Python",
-            "last_commit": "2026-08-27T13:07:20Z",
+            "last_commit": "2026-08-28T18:37:06Z",
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2112
-          }
+            "stars": 2113
+          },
+          "first_seen": "2026-08-28T21:17:23.102Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "BindsNET",
             "repo": "bindsnet",
             "stars": 1695
-          }
+          },
+          "first_seen": "2026-08-28T21:17:23.102Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2025-11-06T13:37:53Z",
             "owner": "BrainCog-X",
             "repo": "Brain-Cog",
-            "stars": 646
-          }
+            "stars": 647
+          },
+          "first_seen": "2026-08-28T21:17:23.102Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "genn-team",
             "repo": "genn",
             "stars": 280
-          }
+          },
+          "first_seen": "2026-08-28T21:17:23.102Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "BasBuller",
             "repo": "PySNN",
             "stars": 234
-          }
+          },
+          "first_seen": "2026-08-28T21:17:23.102Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "dancinlab",
             "repo": "anima",
             "stars": 143
-          }
+          },
+          "first_seen": "2026-08-28T21:17:23.102Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "fzenke",
             "repo": "auryn",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T21:17:23.102Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "zju-bmi-lab",
             "repo": "SPAIC",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-28T21:17:23.102Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "UCI-CARL",
             "repo": "CARLsim6",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T21:17:23.102Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "KasperskyLab",
             "repo": "knp",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T21:17:23.102Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "sandialabs",
             "repo": "Fugu",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T21:17:23.102Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "colinator",
             "repo": "spikeflow",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T21:17:23.102Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "sagacitysite",
             "repo": "pelenet",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T21:17:23.102Z"
         }
       ],
       "title": "Spiking and Neuromorphic Frameworks"
@@ -232,7 +246,8 @@
             "owner": "NeuromorphicProcessorProject",
             "repo": "snn_toolbox",
             "stars": 399
-          }
+          },
+          "first_seen": "2026-08-28T21:17:23.102Z"
         }
       ],
       "title": "ANN2SNN Converters"
@@ -252,8 +267,9 @@
             "last_commit": "2024-11-26T12:02:53Z",
             "owner": "Unity-Technologies",
             "repo": "Unity-Robotics-Hub",
-            "stars": 2566
-          }
+            "stars": 2568
+          },
+          "first_seen": "2026-08-28T21:17:23.102Z"
         }
       ],
       "title": "Robotic Toolkits"
@@ -279,7 +295,8 @@
                 "owner": "open-neuromorphic",
                 "repo": "nirviz",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:17:23.102Z"
             }
           ],
           "repo_info": {
@@ -290,7 +307,8 @@
             "owner": "neuromorphs",
             "repo": "NIR",
             "stars": 179
-          }
+          },
+          "first_seen": "2026-08-28T21:17:23.102Z"
         },
         {
           "node_type": "item",
@@ -305,7 +323,8 @@
             "owner": "AllenInstitute",
             "repo": "sonata",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T21:17:23.102Z"
         }
       ],
       "title": "Formats"
@@ -326,7 +345,8 @@
             "owner": "aestream",
             "repo": "aestream",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T21:17:23.102Z"
         },
         {
           "node_type": "item",
@@ -341,7 +361,8 @@
             "owner": "BrainCog-X",
             "repo": "tonic_braincog",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T21:17:23.102Z"
         }
       ],
       "title": "Datasets and Dataset Tools"
@@ -362,7 +383,8 @@
             "owner": "jiwoonl",
             "repo": "Spiking-Neural-Network-on-FPGA",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:17:23.102Z"
         },
         {
           "node_type": "group",
@@ -382,7 +404,8 @@
                 "owner": "intel-nrc-ecosystem",
                 "repo": "models",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-28T21:17:23.102Z"
             },
             {
               "node_type": "item",
@@ -397,7 +420,8 @@
                 "owner": "sagacitysite",
                 "repo": "brian2_loihi",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T21:17:23.102Z"
             }
           ]
         }
@@ -420,7 +444,8 @@
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
             "stars": 3634
-          }
+          },
+          "first_seen": "2026-08-28T21:17:23.102Z"
         },
         {
           "node_type": "item",
@@ -435,14 +460,15 @@
             "owner": "realamirhe",
             "repo": "awesome-computational-neuro-science",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T21:17:23.102Z"
         }
       ],
       "title": "Footnotes"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:52:23.593Z",
+    "last_updated": "2026-08-28T21:17:23.102Z",
     "original_repository_info": {
       "archived": false,
       "id": 614376998,
