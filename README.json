@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch and TensorFlow implementation of NCP, LTC, and CfC wired neural models",
+            "homepage": "https://www.nature.com/articles/s42256-020-00237-3",
             "id": 290199641,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-14T13:50:44Z",
+            "open_issues": 28,
             "owner": "mlech26l",
             "repo": "ncps",
-            "stars": 2345
+            "stars": 2345,
+            "topics": [
+              "cfc",
+              "keras",
+              "nature-machine-intelligence",
+              "ncp",
+              "recurrent-neural-network",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T21:17:23.102Z"
         },
@@ -26,12 +38,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SpikingJelly is an open-source deep learning framework for Spiking Neural Network (SNN) based on PyTorch.",
+            "homepage": "https://spikingjelly.readthedocs.io",
             "id": 228557692,
             "language": "Python",
-            "last_commit": "2026-08-28T18:37:06Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:25:08Z",
+            "open_issues": 129,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2113
+            "stars": 2113,
+            "topics": [
+              "deep-learning",
+              "dvs",
+              "machine-learning",
+              "pytorch",
+              "snn",
+              "spiking-neural-networks"
+            ]
           },
           "first_seen": "2026-08-28T21:17:23.102Z"
         },
@@ -42,12 +66,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simulation of spiking neural networks (SNNs) using PyTorch.",
+            "homepage": null,
             "id": 120948040,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-20T15:19:52Z",
+            "open_issues": 15,
             "owner": "BindsNET",
             "repo": "bindsnet",
-            "stars": 1695
+            "stars": 1695,
+            "topics": [
+              "dynamic",
+              "gpu-computing",
+              "machine-learning",
+              "neurons",
+              "pytorch",
+              "reinforcement-learning",
+              "simulation",
+              "snn",
+              "spiking-neural-networks",
+              "stdp",
+              "synapse"
+            ]
           },
           "first_seen": "2026-08-28T21:17:23.102Z"
         },
@@ -58,12 +99,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Brain-inspired Cognitive Intelligence Engine (BrainCog) is a brain-inspired spiking neural network based platform for Brain-inspired Artificial Intelligence and simulating brains at multiple scales. The long term goal of BrainCog is to provide a comprehensive theory and system to decode the mechanisms and principles of human intelligence and its evolution, and develop artificial brains for brain-inspired conscious living AI in future Human-AI symbiotic Society.",
+            "homepage": "http://www.brain-cog.network/",
             "id": 422522106,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-06T13:37:53Z",
+            "open_issues": 30,
             "owner": "BrainCog-X",
             "repo": "Brain-Cog",
-            "stars": 647
+            "stars": 647,
+            "topics": [
+              "brain-inspired-ai",
+              "brain-inspired-computation",
+              "brain-simulations",
+              "computational-neuroscience",
+              "spiking-neural-networks"
+            ]
           },
           "first_seen": "2026-08-28T21:17:23.102Z"
         },
@@ -74,12 +126,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GeNN is a GPU-enhanced Neuronal Network simulation environment based on code generation for Nvidia CUDA and AMD HIP.",
+            "homepage": "http://genn-team.github.io/",
             "id": 24633934,
             "language": "C++",
+            "license": "LGPL-2.1",
             "last_commit": "2026-08-24T14:46:38Z",
+            "open_issues": 45,
             "owner": "genn-team",
             "repo": "genn",
-            "stars": 280
+            "stars": 280,
+            "topics": [
+              "computational-neuroscience",
+              "hacktoberfest",
+              "nvidia-cuda",
+              "simulation",
+              "spiking-neural-networks"
+            ]
           },
           "first_seen": "2026-08-28T21:17:23.102Z"
         },
@@ -90,12 +153,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Efficient Spiking Neural Network framework, built on top of PyTorch for GPU acceleration",
+            "homepage": null,
             "id": 199586819,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-31T11:31:14Z",
+            "open_issues": 4,
             "owner": "BasBuller",
             "repo": "PySNN",
-            "stars": 234
+            "stars": 234,
+            "topics": [
+              "deep-learning",
+              "dynamic",
+              "gpu-acceleration",
+              "gpu-computing",
+              "machine-learning",
+              "neural-networks",
+              "python3",
+              "pytorch",
+              "spiking-neural-networks",
+              "stdp"
+            ]
           },
           "first_seen": "2026-08-28T21:17:23.102Z"
         },
@@ -106,12 +185,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧠 Living Consciousness Agent — PureField repulsion-field engine · Engine A ⇄ Engine G · Ψ=1/2 fixed point · 2,448 laws + 392 hypotheses",
+            "homepage": "https://dancinlab.github.io/anima/",
             "id": 1190256645,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-14T22:34:33Z",
+            "open_issues": 0,
             "owner": "dancinlab",
             "repo": "anima",
-            "stars": 143
+            "stars": 143,
+            "topics": [
+              "ai-consciousness",
+              "brain-inspired",
+              "consciousness",
+              "consciousness-laws",
+              "engine-a",
+              "engine-g",
+              "hexa-family",
+              "hexad",
+              "iit",
+              "phi",
+              "psi-fixed-point",
+              "purefield",
+              "repulsion-field"
+            ]
           },
           "first_seen": "2026-08-28T21:17:23.102Z"
         },
@@ -122,12 +220,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Auryn: A fast simulator for spiking neural networks with synaptic plasticity",
+            "homepage": "https://fzenke.net/auryn/",
             "id": 16260653,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2025-03-11T08:36:11Z",
+            "open_issues": 2,
             "owner": "fzenke",
             "repo": "auryn",
-            "stars": 110
+            "stars": 110,
+            "topics": [
+              "auryn",
+              "computational-neuroscience",
+              "parallel-computing",
+              "simulation-framework",
+              "spiking-neu",
+              "spiking-neural-networks",
+              "stdp"
+            ]
           },
           "first_seen": "2026-08-28T21:17:23.102Z"
         },
@@ -138,12 +249,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spike-based artificial intelligence computing platform",
+            "homepage": null,
             "id": 447090438,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-07T03:42:25Z",
+            "open_issues": 0,
             "owner": "zju-bmi-lab",
             "repo": "SPAIC",
-            "stars": 104
+            "stars": 104,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:17:23.102Z"
         },
@@ -154,12 +270,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CARLsim is an efficient, easy-to-use, GPU-accelerated software framework for simulating large-scale spiking neural network (SNN) models with a high degree of biological detail.",
+            "homepage": null,
             "id": 445964927,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2025-11-08T12:23:03Z",
+            "open_issues": 18,
             "owner": "UCI-CARL",
             "repo": "CARLsim6",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:17:23.102Z"
         },
@@ -170,12 +291,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kaspersky Neuromorphic Platform",
+            "homepage": null,
             "id": 883826631,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T11:27:39Z",
+            "open_issues": 39,
             "owner": "KasperskyLab",
             "repo": "knp",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "cpp",
+              "machine-learning",
+              "ml",
+              "neural-network",
+              "python",
+              "spiking"
+            ]
           },
           "first_seen": "2026-08-28T21:17:23.102Z"
         },
@@ -186,12 +319,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 465425461,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-03-31T17:06:43Z",
+            "open_issues": 3,
             "owner": "sandialabs",
             "repo": "Fugu",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "computation-graphs",
+              "nerl-neuromorphic",
+              "neuromorphic",
+              "neuromorphic-computing",
+              "scr-2708",
+              "snl-comp-science-libs",
+              "snl-nerl",
+              "snl-neuromorphic",
+              "snl-prog-models-runtimes",
+              "spiking-circuits",
+              "spiking-neural-network"
+            ]
           },
           "first_seen": "2026-08-28T21:17:23.102Z"
         },
@@ -202,12 +352,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python library for easy creation and running of spiking neural networks in tensorflow.",
+            "homepage": null,
             "id": 168064817,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2019-04-21T02:08:54Z",
+            "open_issues": 0,
             "owner": "colinator",
             "repo": "spikeflow",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "computational-neuroscience",
+              "python",
+              "snn",
+              "spiking-neural-networks",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T21:17:23.102Z"
         },
@@ -218,12 +379,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reservoir computing framework for Loihi",
+            "homepage": null,
             "id": 223164014,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2022-09-23T12:49:12Z",
+            "open_issues": 0,
             "owner": "sagacitysite",
             "repo": "pelenet",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:17:23.102Z"
         }
@@ -240,12 +406,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Toolbox for converting analog to spiking neural networks (ANN to SNN), and running them in a spiking neuron simulator.",
+            "homepage": null,
             "id": 64289132,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-01-13T10:01:01Z",
+            "open_issues": 3,
             "owner": "NeuromorphicProcessorProject",
             "repo": "snn_toolbox",
-            "stars": 399
+            "stars": 399,
+            "topics": [
+              "brian",
+              "brian2",
+              "caffe",
+              "deep-learning",
+              "deep-neural-networks",
+              "keras",
+              "lasagne",
+              "loihi",
+              "nest",
+              "pynn",
+              "pytorch",
+              "spiking-neural-networks",
+              "spinnaker",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T21:17:23.102Z"
         }
@@ -262,12 +448,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Central repository for tools, tutorials, resources, and documentation for robotics simulation in Unity.",
+            "homepage": null,
             "id": 298347380,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2024-11-26T12:02:53Z",
+            "open_issues": 56,
             "owner": "Unity-Technologies",
             "repo": "Unity-Robotics-Hub",
-            "stars": 2568
+            "stars": 2568,
+            "topics": [
+              "autonomous-robots",
+              "autonomy",
+              "manipulation",
+              "motion-planning",
+              "physics-3d",
+              "physics-simulation",
+              "planning",
+              "robot",
+              "robot-manipulator",
+              "robot-simulation",
+              "robotics-control",
+              "robotics-development",
+              "robotics-simulation",
+              "ros",
+              "simulation",
+              "trajectory-generation",
+              "tutorials",
+              "unity",
+              "unity-robotics",
+              "urdf"
+            ]
           },
           "first_seen": "2026-08-28T21:17:23.102Z"
         }
@@ -289,24 +501,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NIR visualizer",
+                "homepage": null,
                 "id": 994853557,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-07-03T08:11:55Z",
+                "open_issues": 0,
                 "owner": "open-neuromorphic",
                 "repo": "nirviz",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:17:23.102Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "Neuromorphic Intermediate Representation reference implementation",
+            "homepage": "https://neuroir.org/docs",
             "id": 661110494,
             "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T14:08:27Z",
+            "open_issues": 21,
             "owner": "neuromorphs",
             "repo": "NIR",
-            "stars": 179
+            "stars": 179,
+            "topics": [
+              "machine-learning",
+              "neuromorphic"
+            ]
           },
           "first_seen": "2026-08-28T21:17:23.102Z"
         },
@@ -317,12 +542,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collaboration between BBP and AIBS",
+            "homepage": null,
             "id": 111609058,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-11-24T23:44:07Z",
+            "open_issues": 39,
             "owner": "AllenInstitute",
             "repo": "sonata",
-            "stars": 66
+            "stars": 66,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:17:23.102Z"
         }
@@ -339,12 +569,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Efficient streaming of sparse event data supporting files, network I/O, GPU peripherals (via Torch/Jax/Numpy) and neuromorphic protocols",
+            "homepage": "https://aestream.github.io/aestream",
             "id": 280219781,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2025-08-05T09:37:31Z",
+            "open_issues": 29,
             "owner": "aestream",
             "repo": "aestream",
-            "stars": 91
+            "stars": 91,
+            "topics": [
+              "coroutines",
+              "event-camera",
+              "gpu-acceleration",
+              "neuromorphic",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T21:17:23.102Z"
         },
@@ -355,12 +596,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 521475934,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2023-01-07T09:15:31Z",
+            "open_issues": 0,
             "owner": "BrainCog-X",
             "repo": "tonic_braincog",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:17:23.102Z"
         }
@@ -377,12 +623,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Moved to https://github.com/metr0jw/Event-Driven-Spiking-Neural-Network-Accelerator-for-FPGA",
+            "homepage": null,
             "id": 1089582731,
             "language": null,
+            "license": null,
             "last_commit": "2025-11-04T14:37:54Z",
+            "open_issues": 1,
             "owner": "jiwoonl",
             "repo": "Spiking-Neural-Network-on-FPGA",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:17:23.102Z"
         },
@@ -398,12 +649,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "This repository will host models, modules, algorithms and applications developed by the INRC Community to run on the Intel Loihi Platform.",
+                "homepage": "http://neuromorphic.intel.com",
                 "id": 237314721,
                 "language": "Jupyter Notebook",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-10-09T19:38:26Z",
+                "open_issues": 4,
                 "owner": "intel-nrc-ecosystem",
                 "repo": "models",
-                "stars": 83
+                "stars": 83,
+                "topics": [
+                  "loihi",
+                  "neuromorphic-computing",
+                  "python",
+                  "spiking-neural-networks"
+                ]
               },
               "first_seen": "2026-08-28T21:17:23.102Z"
             },
@@ -414,12 +675,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Loihi emulator based on Brian2",
+                "homepage": null,
                 "id": 347937113,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-12-06T08:11:56Z",
+                "open_issues": 6,
                 "owner": "sagacitysite",
                 "repo": "brian2_loihi",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "brian2",
+                  "loihi",
+                  "loihi-emulator"
+                ]
               },
               "first_seen": "2026-08-28T21:17:23.102Z"
             }
@@ -438,12 +708,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Event-based Vision Resources. Community effort to collect knowledge on event-based vision technology (papers, workshops, datasets, code, videos, etc)",
+            "homepage": null,
             "id": 95533189,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-14T06:30:09Z",
+            "open_issues": 2,
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3634
+            "stars": 3634,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:17:23.102Z"
         },
@@ -454,12 +729,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome cns frameworks, libraries, and software + First class pure python Tutorial Series for Spiking Neural Networks 🔥 ",
+            "homepage": null,
             "id": 256761737,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-07-15T21:36:06Z",
+            "open_issues": 1,
             "owner": "realamirhe",
             "repo": "awesome-computational-neuro-science",
-            "stars": 76
+            "stars": 76,
+            "topics": [
+              "article",
+              "awesome",
+              "book",
+              "computer-science",
+              "convolution",
+              "dog",
+              "gabor",
+              "neuron",
+              "neuron-models",
+              "neuroscience",
+              "spiking-neural-networks",
+              "stdp",
+              "stdp-learning",
+              "tutorial-code"
+            ]
           },
           "first_seen": "2026-08-28T21:17:23.102Z"
         }
@@ -468,15 +763,38 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:17:23.102Z",
+    "last_updated": "2026-08-29T05:04:38.469Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome neuromorphic frameworks, libraries, resources, and other things",
+      "homepage": null,
       "id": 614376998,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-20T18:11:41Z",
+      "open_issues": 1,
       "owner": "artiomn",
       "repo": "awesome-neuromorphic",
-      "stars": 60
+      "stars": 60,
+      "topics": [
+        "ann-to-snn",
+        "awesome",
+        "awesome-list",
+        "brain",
+        "brian",
+        "brian2",
+        "kaspersky",
+        "list",
+        "loihi",
+        "machine-learning",
+        "neural-networks",
+        "neuro",
+        "neuromorphic",
+        "pynn",
+        "snn",
+        "spiking",
+        "spiking-networks"
+      ]
     },
     "original_repository_sha": "85805039c80976720360d05ae72010861f6def49",
     "enhanced_repository": "enhansome/enhansome-neuromorphic",
