@@ -19,7 +19,7 @@
             "open_issues": 28,
             "owner": "mlech26l",
             "repo": "ncps",
-            "stars": 2347,
+            "stars": 2348,
             "topics": [
               "cfc",
               "keras",
@@ -71,8 +71,8 @@
             "id": 120948040,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-31T20:17:41Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-01T21:24:27Z",
+            "open_issues": 12,
             "owner": "BindsNET",
             "repo": "bindsnet",
             "stars": 1695,
@@ -296,8 +296,8 @@
             "id": 883826631,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T11:46:15Z",
-            "open_issues": 40,
+            "last_commit": "2026-09-02T13:37:08Z",
+            "open_issues": 39,
             "owner": "KasperskyLab",
             "repo": "knp",
             "stars": 52,
@@ -763,7 +763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T15:21:12.543Z",
+    "last_updated": "2026-09-02T14:52:05.623Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neuromorphic frameworks, libraries, resources, and other things",

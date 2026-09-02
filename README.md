@@ -21,9 +21,9 @@ A curated list of awesome spiking or neuromorphic frameworks, libraries, resourc
 
 ## Spiking and Neuromorphic Frameworks
 
-* [Neural Circuit Policies](https://github.com/mlech26l/ncps) ⭐ 2,347 | 🐛 28 | 🌐 Python | 📅 2024-08-14 - Neural Circuit Policies (NCPs) are designed sparse recurrent neural networks loosely inspired by the nervous system of the organism C. elegans. The goal of this package is to making working with NCPs in PyTorch and keras as easy as possible.
+* [Neural Circuit Policies](https://github.com/mlech26l/ncps) ⭐ 2,348 | 🐛 28 | 🌐 Python | 📅 2024-08-14 - Neural Circuit Policies (NCPs) are designed sparse recurrent neural networks loosely inspired by the nervous system of the organism C. elegans. The goal of this package is to making working with NCPs in PyTorch and keras as easy as possible.
 * [SpikingJelly](https://github.com/fangwei123456/spikingjelly) ⭐ 2,114 | 🐛 126 | 🌐 Python | 📅 2026-09-01 - Open-source deep learning framework for Spiking Neural Network (SNN) based on PyTorch.
-* [BindsNET](https://github.com/BindsNET/bindsnet) ⭐ 1,695 | 🐛 10 | 🌐 Python | 📅 2026-08-31 - Python package used for simulating spiking neural networks (SNNs) on CPUs or GPUs using PyTorch Tensor functionality. BindsNET is a spiking neural network simulation library geared towards the development of biologically inspired algorithms for machine learning.
+* [BindsNET](https://github.com/BindsNET/bindsnet) ⭐ 1,695 | 🐛 12 | 🌐 Python | 📅 2026-09-01 - Python package used for simulating spiking neural networks (SNNs) on CPUs or GPUs using PyTorch Tensor functionality. BindsNET is a spiking neural network simulation library geared towards the development of biologically inspired algorithms for machine learning.
 * [BrainCog](https://github.com/BrainCog-X/Brain-Cog) ⭐ 648 | 🐛 30 | 🌐 Python | 📅 2025-11-06 - BrainCog is an open source spiking neural network based brain-inspired cognitive intelligence engine for Brain-inspired Artificial Intelligence and brain simulation. The current version of BrainCog contains at least 50 functional spiking neural network algorithms including perception and learning, decision making, knowledge representation and reasoning, motor control, social cognition, etc. BrainCog also provide brain simulations to drosophila, rodent, monkey, and human brains at multiple scales based on spiking neural networks at multiple scales.
 * [GeNN](https://github.com/genn-team/genn) ⭐ 280 | 🐛 45 | 🌐 C++ | 📅 2026-08-24 - GeNN is a GPU-enhanced Neuronal Network simulation environment based on code generation for Nvidia CUDA.
 * [PySNN](https://github.com/BasBuller/PySNN) ⭐ 234 | 🐛 4 | 🌐 Python | 📅 2024-07-31 - Spiking neural network (SNN) framework written on top of PyTorch for efficient simulation of SNNs both on CPU and GPU.
@@ -31,7 +31,7 @@ A curated list of awesome spiking or neuromorphic frameworks, libraries, resourc
 * [Auryn](https://github.com/fzenke/auryn) ⭐ 110 | 🐛 2 | 🌐 C++ | 📅 2025-03-11 - Simulator for recurrent spiking neural networks with synaptic plasticity.
 * [SPAIC](https://github.com/ZhejianglabNCRC/SPAIC) ⭐ 104 | 🐛 0 | 🌐 Python | 📅 2026-05-07 - Spike-based artificial intelligence computing platform.
 * [CARLSim](https://github.com/UCI-CARL/CARLsim6) ⭐ 59 | 🐛 18 | 🌐 C++ | 📅 2025-11-08 - CARLsim is an efficient, easy-to-use, GPU-accelerated library for simulating large-scale spiking neural network (SNN) models with a high degree of biological detail.
-* [Kaspersky Neuromorphic Platform](https://github.com/KasperskyLab/knp) ⭐ 52 | 🐛 40 | 🌐 C++ | 📅 2026-08-29 - The Kaspersky Neuromorphic Platform or KNP is a software platform for developing, training and executing spiking neural networks on a variety of computers. Platform contains totally spiking package, that allows to build and run spiking networks on CPU or AltAI neuromorphic hardware and ANN2SNN package, that can train spiking networks using Tensorflow and then run AltAI. Core of the platform was written in C++. KNP has fully-functional C++ and Python frameworks.
+* [Kaspersky Neuromorphic Platform](https://github.com/KasperskyLab/knp) ⭐ 52 | 🐛 39 | 🌐 C++ | 📅 2026-09-02 - The Kaspersky Neuromorphic Platform or KNP is a software platform for developing, training and executing spiking neural networks on a variety of computers. Platform contains totally spiking package, that allows to build and run spiking networks on CPU or AltAI neuromorphic hardware and ANN2SNN package, that can train spiking networks using Tensorflow and then run AltAI. Core of the platform was written in C++. KNP has fully-functional C++ and Python frameworks.
 * [Fugu](https://github.com/sandialabs/Fugu) ⭐ 41 | 🐛 3 | 🌐 Python | 📅 2026-03-31 - Fugu is a flexible and customizable framework that uses computational neural graphs for optimizing and deploying  architectures across multiple neuromorphic hardware platforms.
 * [spikeflow](https://github.com/colinator/spikeflow) ⭐ 33 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2019-04-21 - Spiking neural networks in tensorflow.
 * [PeleNet](https://github.com/sagacitysite/pelenet) ⭐ 14 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-09-23 - Reservoir computing framework for Loihi.
@@ -73,7 +73,7 @@ A curated list of awesome spiking or neuromorphic frameworks, libraries, resourc
 
 ## Computational Neuroscience Software
 
-* [BrainPy](https://github.com/brainpy/BrainPy) ⭐ 705 | 🐛 4 | 🌐 Python | 📅 2026-08-13 - Framework for computational neuroscience and brain-inspired computation based on the Just-In-Time (JIT) compilation (built on top of JAX, Numba, and other JIT compilers). It provides an integrative ecosystem for brain dynamics programming, including brain dynamics building, simulation, training, analysis, etc.
+* [BrainPy](https://github.com/brainpy/BrainPy) ⭐ 706 | 🐛 4 | 🌐 Python | 📅 2026-08-13 - Framework for computational neuroscience and brain-inspired computation based on the Just-In-Time (JIT) compilation (built on top of JAX, Numba, and other JIT compilers). It provides an integrative ecosystem for brain dynamics programming, including brain dynamics building, simulation, training, analysis, etc.
 
 ## Institutes and Groups
 
@@ -139,4 +139,4 @@ SynSense focuses on the commercialization of neuromorphic intelligence, based on
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
