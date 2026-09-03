@@ -19,7 +19,7 @@
             "open_issues": 28,
             "owner": "mlech26l",
             "repo": "ncps",
-            "stars": 2348,
+            "stars": 2347,
             "topics": [
               "cfc",
               "keras",
@@ -43,11 +43,11 @@
             "id": 228557692,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-01T09:21:25Z",
-            "open_issues": 126,
+            "last_commit": "2026-09-03T07:46:13Z",
+            "open_issues": 129,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2114,
+            "stars": 2116,
             "topics": [
               "deep-learning",
               "dvs",
@@ -71,8 +71,8 @@
             "id": 120948040,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-01T21:24:27Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-02T23:45:29Z",
+            "open_issues": 16,
             "owner": "BindsNET",
             "repo": "bindsnet",
             "stars": 1695,
@@ -457,7 +457,7 @@
             "open_issues": 56,
             "owner": "Unity-Technologies",
             "repo": "Unity-Robotics-Hub",
-            "stars": 2569,
+            "stars": 2568,
             "topics": [
               "autonomous-robots",
               "autonomy",
@@ -714,10 +714,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-14T06:30:09Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3636,
+            "stars": 3637,
             "topics": []
           },
           "first_seen": "2026-08-28T21:17:23.102Z"
@@ -763,7 +763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T14:52:05.623Z",
+    "last_updated": "2026-09-03T14:50:11.492Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neuromorphic frameworks, libraries, resources, and other things",
@@ -772,7 +772,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-08-20T18:11:41Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "artiomn",
       "repo": "awesome-neuromorphic",
       "stars": 60,

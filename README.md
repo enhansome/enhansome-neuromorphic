@@ -21,9 +21,9 @@ A curated list of awesome spiking or neuromorphic frameworks, libraries, resourc
 
 ## Spiking and Neuromorphic Frameworks
 
-* [Neural Circuit Policies](https://github.com/mlech26l/ncps) ⭐ 2,348 | 🐛 28 | 🌐 Python | 📅 2024-08-14 - Neural Circuit Policies (NCPs) are designed sparse recurrent neural networks loosely inspired by the nervous system of the organism C. elegans. The goal of this package is to making working with NCPs in PyTorch and keras as easy as possible.
-* [SpikingJelly](https://github.com/fangwei123456/spikingjelly) ⭐ 2,114 | 🐛 126 | 🌐 Python | 📅 2026-09-01 - Open-source deep learning framework for Spiking Neural Network (SNN) based on PyTorch.
-* [BindsNET](https://github.com/BindsNET/bindsnet) ⭐ 1,695 | 🐛 12 | 🌐 Python | 📅 2026-09-01 - Python package used for simulating spiking neural networks (SNNs) on CPUs or GPUs using PyTorch Tensor functionality. BindsNET is a spiking neural network simulation library geared towards the development of biologically inspired algorithms for machine learning.
+* [Neural Circuit Policies](https://github.com/mlech26l/ncps) ⭐ 2,347 | 🐛 28 | 🌐 Python | 📅 2024-08-14 - Neural Circuit Policies (NCPs) are designed sparse recurrent neural networks loosely inspired by the nervous system of the organism C. elegans. The goal of this package is to making working with NCPs in PyTorch and keras as easy as possible.
+* [SpikingJelly](https://github.com/fangwei123456/spikingjelly) ⭐ 2,116 | 🐛 129 | 🌐 Python | 📅 2026-09-03 - Open-source deep learning framework for Spiking Neural Network (SNN) based on PyTorch.
+* [BindsNET](https://github.com/BindsNET/bindsnet) ⭐ 1,695 | 🐛 16 | 🌐 Python | 📅 2026-09-02 - Python package used for simulating spiking neural networks (SNNs) on CPUs or GPUs using PyTorch Tensor functionality. BindsNET is a spiking neural network simulation library geared towards the development of biologically inspired algorithms for machine learning.
 * [BrainCog](https://github.com/BrainCog-X/Brain-Cog) ⭐ 648 | 🐛 30 | 🌐 Python | 📅 2025-11-06 - BrainCog is an open source spiking neural network based brain-inspired cognitive intelligence engine for Brain-inspired Artificial Intelligence and brain simulation. The current version of BrainCog contains at least 50 functional spiking neural network algorithms including perception and learning, decision making, knowledge representation and reasoning, motor control, social cognition, etc. BrainCog also provide brain simulations to drosophila, rodent, monkey, and human brains at multiple scales based on spiking neural networks at multiple scales.
 * [GeNN](https://github.com/genn-team/genn) ⭐ 280 | 🐛 45 | 🌐 C++ | 📅 2026-08-24 - GeNN is a GPU-enhanced Neuronal Network simulation environment based on code generation for Nvidia CUDA.
 * [PySNN](https://github.com/BasBuller/PySNN) ⭐ 234 | 🐛 4 | 🌐 Python | 📅 2024-07-31 - Spiking neural network (SNN) framework written on top of PyTorch for efficient simulation of SNNs both on CPU and GPU.
@@ -57,7 +57,7 @@ A curated list of awesome spiking or neuromorphic frameworks, libraries, resourc
 
 ## Robotic Toolkits
 
-* [Unity Robotics Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) ⭐ 2,569 | 🐛 56 | 🌐 C# | 📅 2024-11-26 - list with robotics simulation tools in Unity.
+* [Unity Robotics Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) ⭐ 2,568 | 🐛 56 | 🌐 C# | 📅 2024-11-26 - list with robotics simulation tools in Unity.
 * [DART](https://dart.readthedocs.io/en/latest/) - Dynamic Animation and Robotics Toolkit.
 
 ## Formats
@@ -73,7 +73,7 @@ A curated list of awesome spiking or neuromorphic frameworks, libraries, resourc
 
 ## Computational Neuroscience Software
 
-* [BrainPy](https://github.com/brainpy/BrainPy) ⭐ 706 | 🐛 4 | 🌐 Python | 📅 2026-08-13 - Framework for computational neuroscience and brain-inspired computation based on the Just-In-Time (JIT) compilation (built on top of JAX, Numba, and other JIT compilers). It provides an integrative ecosystem for brain dynamics programming, including brain dynamics building, simulation, training, analysis, etc.
+* [BrainPy](https://github.com/brainpy/BrainPy) ⭐ 707 | 🐛 4 | 🌐 Python | 📅 2026-08-13 - Framework for computational neuroscience and brain-inspired computation based on the Just-In-Time (JIT) compilation (built on top of JAX, Numba, and other JIT compilers). It provides an integrative ecosystem for brain dynamics programming, including brain dynamics building, simulation, training, analysis, etc.
 
 ## Institutes and Groups
 
@@ -134,9 +134,9 @@ SynSense focuses on the commercialization of neuromorphic intelligence, based on
 
 ## Footnotes
 
-* [Event-based Vision Resources](https://github.com/uzh-rpg/event-based_vision_resources#neuromorphic-systems) ⭐ 3,636 | 🐛 2 | 📅 2026-08-14 - Big articles list.
+* [Event-based Vision Resources](https://github.com/uzh-rpg/event-based_vision_resources#neuromorphic-systems) ⭐ 3,637 | 🐛 3 | 📅 2026-08-14 - Big articles list.
 * [Awesome Neuroscience](https://github.com/realamirhe/awesome-computational-neuro-science) ⭐ 76 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-07-15 - Computational Neuro Science repository.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
