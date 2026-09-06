@@ -47,7 +47,7 @@
             "open_issues": 131,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2117,
+            "stars": 2119,
             "topics": [
               "deep-learning",
               "dvs",
@@ -108,7 +108,7 @@
             "open_issues": 30,
             "owner": "BrainCog-X",
             "repo": "Brain-Cog",
-            "stars": 648,
+            "stars": 647,
             "topics": [
               "brain-inspired-ai",
               "brain-inspired-computation",
@@ -763,7 +763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T13:37:46.465Z",
+    "last_updated": "2026-09-06T13:52:07.167Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neuromorphic frameworks, libraries, resources, and other things",
