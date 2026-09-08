@@ -47,7 +47,7 @@
             "open_issues": 124,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2121,
+            "stars": 2122,
             "topics": [
               "deep-learning",
               "dvs",
@@ -457,7 +457,7 @@
             "open_issues": 56,
             "owner": "Unity-Technologies",
             "repo": "Unity-Robotics-Hub",
-            "stars": 2572,
+            "stars": 2575,
             "topics": [
               "autonomous-robots",
               "autonomy",
@@ -684,7 +684,7 @@
                 "open_issues": 6,
                 "owner": "sagacitysite",
                 "repo": "brian2_loihi",
-                "stars": 30,
+                "stars": 31,
                 "topics": [
                   "brian2",
                   "loihi",
@@ -763,7 +763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T16:14:11.110Z",
+    "last_updated": "2026-09-08T14:50:41.794Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neuromorphic frameworks, libraries, resources, and other things",

@@ -22,7 +22,7 @@ A curated list of awesome spiking or neuromorphic frameworks, libraries, resourc
 ## Spiking and Neuromorphic Frameworks
 
 * [Neural Circuit Policies](https://github.com/mlech26l/ncps) ⭐ 2,348 | 🐛 28 | 🌐 Python | 📅 2024-08-14 - Neural Circuit Policies (NCPs) are designed sparse recurrent neural networks loosely inspired by the nervous system of the organism C. elegans. The goal of this package is to making working with NCPs in PyTorch and keras as easy as possible.
-* [SpikingJelly](https://github.com/fangwei123456/spikingjelly) ⭐ 2,121 | 🐛 124 | 🌐 Python | 📅 2026-09-07 - Open-source deep learning framework for Spiking Neural Network (SNN) based on PyTorch.
+* [SpikingJelly](https://github.com/fangwei123456/spikingjelly) ⭐ 2,122 | 🐛 124 | 🌐 Python | 📅 2026-09-07 - Open-source deep learning framework for Spiking Neural Network (SNN) based on PyTorch.
 * [BindsNET](https://github.com/BindsNET/bindsnet) ⭐ 1,697 | 🐛 9 | 🌐 Python | 📅 2026-09-07 - Python package used for simulating spiking neural networks (SNNs) on CPUs or GPUs using PyTorch Tensor functionality. BindsNET is a spiking neural network simulation library geared towards the development of biologically inspired algorithms for machine learning.
 * [BrainCog](https://github.com/BrainCog-X/Brain-Cog) ⭐ 647 | 🐛 30 | 🌐 Python | 📅 2025-11-06 - BrainCog is an open source spiking neural network based brain-inspired cognitive intelligence engine for Brain-inspired Artificial Intelligence and brain simulation. The current version of BrainCog contains at least 50 functional spiking neural network algorithms including perception and learning, decision making, knowledge representation and reasoning, motor control, social cognition, etc. BrainCog also provide brain simulations to drosophila, rodent, monkey, and human brains at multiple scales based on spiking neural networks at multiple scales.
 * [GeNN](https://github.com/genn-team/genn) ⭐ 280 | 🐛 45 | 🌐 C++ | 📅 2026-08-24 - GeNN is a GPU-enhanced Neuronal Network simulation environment based on code generation for Nvidia CUDA.
@@ -57,7 +57,7 @@ A curated list of awesome spiking or neuromorphic frameworks, libraries, resourc
 
 ## Robotic Toolkits
 
-* [Unity Robotics Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) ⭐ 2,572 | 🐛 56 | 🌐 C# | 📅 2024-11-26 - list with robotics simulation tools in Unity.
+* [Unity Robotics Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) ⭐ 2,575 | 🐛 56 | 🌐 C# | 📅 2024-11-26 - list with robotics simulation tools in Unity.
 * [DART](https://dart.readthedocs.io/en/latest/) - Dynamic Animation and Robotics Toolkit.
 
 ## Formats
@@ -125,7 +125,7 @@ SynSense focuses on the commercialization of neuromorphic intelligence, based on
 * [Brainchip Akida](https://brainchip.com/akida-neural-processor-soc/) - Akida NPU.
 * [Intel Loihi 2](https://www.intel.com/content/www/us/en/research/neuromorphic-computing-loihi-2-technology-brief.html) - Intel Loihi 2 NPU:
   * [INRC Ecosystem](https://github.com/intel-nrc-ecosystem/models) ⚠️ Archived - models, modules, algorithms and applications developed by the INRC Community using nxsdk to run on the Intel Loihi Platform. Archived. Not supported by Intel now.
-  * [Brian2Loihi](https://github.com/sagacitysite/brian2_loihi/) ⭐ 30 | 🐛 6 | 🌐 Python | 📅 2021-12-06 - Brian2-based Loihi simulator. The neuron and synapse model results in an exact match to Loihi, the pre- and post-synaptic traces have very small variations from the Loihi chip due to stochastic rounding.
+  * [Brian2Loihi](https://github.com/sagacitysite/brian2_loihi/) ⭐ 31 | 🐛 6 | 🌐 Python | 📅 2021-12-06 - Brian2-based Loihi simulator. The neuron and synapse model results in an exact match to Loihi, the pre- and post-synaptic traces have very small variations from the Loihi chip due to stochastic rounding.
   * NxSDK - Intel SDK for Loihi.
   * [Nengo Loihi](https://www.nengo.ai/nengo-loihi/overview.html) - NxSDK-based module for Nengo.
 * [Innatera Pulsar](https://www.innatera.com/product/) - neuromorphic microcontroller built for real-time intelligence at the sensor edge. Delivering brain-like efficiency in a milliwatt power envelope, it enables always-on, responsive devices across wearables, IoT, and industrial systems.
@@ -139,4 +139,4 @@ SynSense focuses on the commercialization of neuromorphic intelligence, based on
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
