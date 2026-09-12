@@ -19,7 +19,7 @@
             "open_issues": 28,
             "owner": "mlech26l",
             "repo": "ncps",
-            "stars": 2349,
+            "stars": 2350,
             "topics": [
               "cfc",
               "keras",
@@ -47,7 +47,7 @@
             "open_issues": 123,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2128,
+            "stars": 2129,
             "topics": [
               "deep-learning",
               "dvs",
@@ -71,7 +71,7 @@
             "id": 120948040,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-07T14:12:58Z",
+            "last_commit": "2026-09-11T15:40:24Z",
             "open_issues": 8,
             "owner": "BindsNET",
             "repo": "bindsnet",
@@ -527,7 +527,7 @@
             "open_issues": 21,
             "owner": "neuromorphs",
             "repo": "NIR",
-            "stars": 180,
+            "stars": 181,
             "topics": [
               "machine-learning",
               "neuromorphic"
@@ -763,7 +763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T14:45:57.579Z",
+    "last_updated": "2026-09-12T13:49:20.529Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neuromorphic frameworks, libraries, resources, and other things",
