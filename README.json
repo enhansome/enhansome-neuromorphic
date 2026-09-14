@@ -19,7 +19,7 @@
             "open_issues": 28,
             "owner": "mlech26l",
             "repo": "ncps",
-            "stars": 2350,
+            "stars": 2351,
             "topics": [
               "cfc",
               "keras",
@@ -47,7 +47,7 @@
             "open_issues": 124,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2131,
+            "stars": 2132,
             "topics": [
               "deep-learning",
               "dvs",
@@ -71,7 +71,7 @@
             "id": 120948040,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-11T15:40:24Z",
+            "last_commit": "2026-09-14T16:16:15Z",
             "open_issues": 8,
             "owner": "BindsNET",
             "repo": "bindsnet",
@@ -328,7 +328,7 @@
             "open_issues": 3,
             "owner": "sandialabs",
             "repo": "Fugu",
-            "stars": 41,
+            "stars": 40,
             "topics": [
               "computation-graphs",
               "nerl-neuromorphic",
@@ -457,7 +457,7 @@
             "open_issues": 56,
             "owner": "Unity-Technologies",
             "repo": "Unity-Robotics-Hub",
-            "stars": 2576,
+            "stars": 2579,
             "topics": [
               "autonomous-robots",
               "autonomy",
@@ -763,7 +763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T14:45:14.815Z",
+    "last_updated": "2026-09-14T16:43:29.258Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neuromorphic frameworks, libraries, resources, and other things",
