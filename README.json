@@ -44,10 +44,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-19T07:44:46Z",
-            "open_issues": 124,
+            "open_issues": 125,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2136,
+            "stars": 2137,
             "topics": [
               "deep-learning",
               "dvs",
@@ -524,10 +524,10 @@
             "language": "Jupyter Notebook",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-18T07:07:16Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "neuromorphs",
             "repo": "NIR",
-            "stars": 181,
+            "stars": 183,
             "topics": [
               "machine-learning",
               "neuromorphic"
@@ -763,7 +763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T14:05:38.382Z",
+    "last_updated": "2026-09-20T14:23:51.795Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neuromorphic frameworks, libraries, resources, and other things",
