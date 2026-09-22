@@ -19,7 +19,7 @@
             "open_issues": 28,
             "owner": "mlech26l",
             "repo": "ncps",
-            "stars": 2351,
+            "stars": 2352,
             "topics": [
               "cfc",
               "keras",
@@ -47,7 +47,7 @@
             "open_issues": 125,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2139,
+            "stars": 2141,
             "topics": [
               "deep-learning",
               "dvs",
@@ -75,7 +75,7 @@
             "open_issues": 12,
             "owner": "BindsNET",
             "repo": "bindsnet",
-            "stars": 1700,
+            "stars": 1701,
             "topics": [
               "dynamic",
               "gpu-computing",
@@ -108,7 +108,7 @@
             "open_issues": 31,
             "owner": "BrainCog-X",
             "repo": "Brain-Cog",
-            "stars": 652,
+            "stars": 654,
             "topics": [
               "brain-inspired-ai",
               "brain-inspired-computation",
@@ -135,7 +135,7 @@
             "open_issues": 45,
             "owner": "genn-team",
             "repo": "genn",
-            "stars": 281,
+            "stars": 282,
             "topics": [
               "computational-neuroscience",
               "hacktoberfest",
@@ -453,7 +453,7 @@
             "id": 298347380,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2024-11-26T12:02:53Z",
+            "last_commit": "2026-09-22T15:03:28Z",
             "open_issues": 56,
             "owner": "Unity-Technologies",
             "repo": "Unity-Robotics-Hub",
@@ -763,7 +763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T16:43:39.500Z",
+    "last_updated": "2026-09-22T15:19:29.807Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neuromorphic frameworks, libraries, resources, and other things",
@@ -772,7 +772,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-08-20T18:11:41Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "artiomn",
       "repo": "awesome-neuromorphic",
       "stars": 60,
