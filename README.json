@@ -43,11 +43,11 @@
             "id": 228557692,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-28T17:04:42Z",
+            "last_commit": "2026-09-29T12:47:35Z",
             "open_issues": 125,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2144,
+            "stars": 2145,
             "topics": [
               "deep-learning",
               "dvs",
@@ -75,7 +75,7 @@
             "open_issues": 11,
             "owner": "BindsNET",
             "repo": "bindsnet",
-            "stars": 1704,
+            "stars": 1703,
             "topics": [
               "dynamic",
               "gpu-computing",
@@ -457,7 +457,7 @@
             "open_issues": 56,
             "owner": "Unity-Technologies",
             "repo": "Unity-Robotics-Hub",
-            "stars": 2585,
+            "stars": 2586,
             "topics": [
               "autonomous-robots",
               "autonomy",
@@ -717,7 +717,7 @@
             "open_issues": 1,
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3650,
+            "stars": 3652,
             "topics": []
           },
           "first_seen": "2026-08-28T21:17:23.102Z"
@@ -763,7 +763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T18:19:58.573Z",
+    "last_updated": "2026-09-29T16:42:50.945Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neuromorphic frameworks, libraries, resources, and other things",
