@@ -43,11 +43,11 @@
             "id": 228557692,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T16:28:27Z",
+            "last_commit": "2026-10-02T12:26:03Z",
             "open_issues": 125,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2149,
+            "stars": 2151,
             "topics": [
               "deep-learning",
               "dvs",
@@ -71,8 +71,8 @@
             "id": 120948040,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-28T07:28:07Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-02T13:13:51Z",
+            "open_issues": 10,
             "owner": "BindsNET",
             "repo": "bindsnet",
             "stars": 1703,
@@ -763,7 +763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T17:13:05.941Z",
+    "last_updated": "2026-10-02T16:26:45.817Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neuromorphic frameworks, libraries, resources, and other things",
