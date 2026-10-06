@@ -25,7 +25,7 @@ A curated list of awesome spiking or neuromorphic frameworks, libraries, resourc
 * [SpikingJelly](https://github.com/fangwei123456/spikingjelly) ⭐ 2,152 | 🐛 125 | 🌐 Python | 📅 2026-10-05 - Open-source deep learning framework for Spiking Neural Network (SNN) based on PyTorch.
 * [BindsNET](https://github.com/BindsNET/bindsnet) ⭐ 1,703 | 🐛 9 | 🌐 Python | 📅 2026-10-04 - Python package used for simulating spiking neural networks (SNNs) on CPUs or GPUs using PyTorch Tensor functionality. BindsNET is a spiking neural network simulation library geared towards the development of biologically inspired algorithms for machine learning.
 * [BrainCog](https://github.com/BrainCog-X/Brain-Cog) ⭐ 657 | 🐛 31 | 🌐 Python | 📅 2025-11-06 - BrainCog is an open source spiking neural network based brain-inspired cognitive intelligence engine for Brain-inspired Artificial Intelligence and brain simulation. The current version of BrainCog contains at least 50 functional spiking neural network algorithms including perception and learning, decision making, knowledge representation and reasoning, motor control, social cognition, etc. BrainCog also provide brain simulations to drosophila, rodent, monkey, and human brains at multiple scales based on spiking neural networks at multiple scales.
-* [GeNN](https://github.com/genn-team/genn) ⭐ 283 | 🐛 45 | 🌐 C++ | 📅 2026-10-05 - GeNN is a GPU-enhanced Neuronal Network simulation environment based on code generation for Nvidia CUDA.
+* [GeNN](https://github.com/genn-team/genn) ⭐ 283 | 🐛 46 | 🌐 C++ | 📅 2026-10-06 - GeNN is a GPU-enhanced Neuronal Network simulation environment based on code generation for Nvidia CUDA.
 * [PySNN](https://github.com/BasBuller/PySNN) ⭐ 234 | 🐛 4 | 🌐 Python | 📅 2024-07-31 - Spiking neural network (SNN) framework written on top of PyTorch for efficient simulation of SNNs both on CPU and GPU.
 * [Anima (AnimaLM)](https://github.com/need-singularity/anima) ⭐ 149 | 🐛 0 | 🌐 Python | 📅 2026-08-14 - Brain-inspired neural architecture implementing excitation-inhibition tension dynamics between expert groups. Models neural agonist-governor balance in transformers. Part of the TECS-L consciousness framework.
 * [Auryn](https://github.com/fzenke/auryn) ⭐ 112 | 🐛 2 | 🌐 C++ | 📅 2025-03-11 - Simulator for recurrent spiking neural networks with synaptic plasticity.
@@ -134,7 +134,7 @@ SynSense focuses on the commercialization of neuromorphic intelligence, based on
 
 ## Footnotes
 
-* [Event-based Vision Resources](https://github.com/uzh-rpg/event-based_vision_resources#neuromorphic-systems) ⭐ 3,661 | 🐛 1 | 📅 2026-09-30 - Big articles list.
+* [Event-based Vision Resources](https://github.com/uzh-rpg/event-based_vision_resources#neuromorphic-systems) ⭐ 3,661 | 🐛 2 | 📅 2026-09-30 - Big articles list.
 * [Awesome Neuroscience](https://github.com/realamirhe/awesome-computational-neuro-science) ⭐ 75 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-07-15 - Computational Neuro Science repository.
 
 ***
