@@ -75,7 +75,7 @@
             "open_issues": 9,
             "owner": "BindsNET",
             "repo": "bindsnet",
-            "stars": 1703,
+            "stars": 1704,
             "topics": [
               "dynamic",
               "gpu-computing",
@@ -297,7 +297,7 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-09-16T13:17:35Z",
-            "open_issues": 41,
+            "open_issues": 42,
             "owner": "KasperskyLab",
             "repo": "knp",
             "stars": 52,
@@ -551,7 +551,7 @@
             "open_issues": 39,
             "owner": "AllenInstitute",
             "repo": "sonata",
-            "stars": 67,
+            "stars": 68,
             "topics": []
           },
           "first_seen": "2026-08-28T21:17:23.102Z"
@@ -713,7 +713,7 @@
             "id": 95533189,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-30T20:34:40Z",
+            "last_commit": "2026-10-07T15:45:16Z",
             "open_issues": 2,
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
@@ -763,7 +763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T17:00:31.976Z",
+    "last_updated": "2026-10-07T17:37:31.617Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neuromorphic frameworks, libraries, resources, and other things",
