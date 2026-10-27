@@ -22,16 +22,16 @@ A curated list of awesome spiking or neuromorphic frameworks, libraries, resourc
 ## Spiking and Neuromorphic Frameworks
 
 * [Neural Circuit Policies](https://github.com/mlech26l/ncps) ⭐ 2,358 | 🐛 28 | 🌐 Python | 📅 2024-08-14 - Neural Circuit Policies (NCPs) are designed sparse recurrent neural networks loosely inspired by the nervous system of the organism C. elegans. The goal of this package is to making working with NCPs in PyTorch and keras as easy as possible.
-* [SpikingJelly](https://github.com/fangwei123456/spikingjelly) ⭐ 2,175 | 🐛 129 | 🌐 Python | 📅 2026-10-26 - Open-source deep learning framework for Spiking Neural Network (SNN) based on PyTorch.
-* [BindsNET](https://github.com/BindsNET/bindsnet) ⭐ 1,707 | 🐛 14 | 🌐 Python | 📅 2026-10-26 - Python package used for simulating spiking neural networks (SNNs) on CPUs or GPUs using PyTorch Tensor functionality. BindsNET is a spiking neural network simulation library geared towards the development of biologically inspired algorithms for machine learning.
-* [BrainCog](https://github.com/BrainCog-X/Brain-Cog) ⭐ 663 | 🐛 31 | 🌐 Python | 📅 2025-11-06 - BrainCog is an open source spiking neural network based brain-inspired cognitive intelligence engine for Brain-inspired Artificial Intelligence and brain simulation. The current version of BrainCog contains at least 50 functional spiking neural network algorithms including perception and learning, decision making, knowledge representation and reasoning, motor control, social cognition, etc. BrainCog also provide brain simulations to drosophila, rodent, monkey, and human brains at multiple scales based on spiking neural networks at multiple scales.
+* [SpikingJelly](https://github.com/fangwei123456/spikingjelly) ⭐ 2,176 | 🐛 127 | 🌐 Python | 📅 2026-10-27 - Open-source deep learning framework for Spiking Neural Network (SNN) based on PyTorch.
+* [BindsNET](https://github.com/BindsNET/bindsnet) ⭐ 1,707 | 🐛 15 | 🌐 Python | 📅 2026-10-26 - Python package used for simulating spiking neural networks (SNNs) on CPUs or GPUs using PyTorch Tensor functionality. BindsNET is a spiking neural network simulation library geared towards the development of biologically inspired algorithms for machine learning.
+* [BrainCog](https://github.com/BrainCog-X/Brain-Cog) ⭐ 665 | 🐛 31 | 🌐 Python | 📅 2025-11-06 - BrainCog is an open source spiking neural network based brain-inspired cognitive intelligence engine for Brain-inspired Artificial Intelligence and brain simulation. The current version of BrainCog contains at least 50 functional spiking neural network algorithms including perception and learning, decision making, knowledge representation and reasoning, motor control, social cognition, etc. BrainCog also provide brain simulations to drosophila, rodent, monkey, and human brains at multiple scales based on spiking neural networks at multiple scales.
 * [GeNN](https://github.com/genn-team/genn) ⭐ 287 | 🐛 45 | 🌐 C++ | 📅 2026-10-21 - GeNN is a GPU-enhanced Neuronal Network simulation environment based on code generation for Nvidia CUDA.
 * [PySNN](https://github.com/BasBuller/PySNN) ⭐ 234 | 🐛 4 | 🌐 Python | 📅 2024-07-31 - Spiking neural network (SNN) framework written on top of PyTorch for efficient simulation of SNNs both on CPU and GPU.
 * [Anima (AnimaLM)](https://github.com/need-singularity/anima) ⭐ 148 | 🐛 0 | 🌐 Python | 📅 2026-08-14 - Brain-inspired neural architecture implementing excitation-inhibition tension dynamics between expert groups. Models neural agonist-governor balance in transformers. Part of the TECS-L consciousness framework.
 * [Auryn](https://github.com/fzenke/auryn) ⭐ 112 | 🐛 2 | 🌐 C++ | 📅 2025-03-11 - Simulator for recurrent spiking neural networks with synaptic plasticity.
 * [SPAIC](https://github.com/ZhejianglabNCRC/SPAIC) ⭐ 104 | 🐛 0 | 🌐 Python | 📅 2026-05-07 - Spike-based artificial intelligence computing platform.
 * [CARLSim](https://github.com/UCI-CARL/CARLsim6) ⭐ 60 | 🐛 18 | 🌐 C++ | 📅 2025-11-08 - CARLsim is an efficient, easy-to-use, GPU-accelerated library for simulating large-scale spiking neural network (SNN) models with a high degree of biological detail.
-* [Kaspersky Neuromorphic Platform](https://github.com/KasperskyLab/knp) ⭐ 55 | 🐛 43 | 🌐 C++ | 📅 2026-10-21 - The Kaspersky Neuromorphic Platform or KNP is a software platform for developing, training and executing spiking neural networks on a variety of computers. Platform contains totally spiking package, that allows to build and run spiking networks on CPU or AltAI neuromorphic hardware and ANN2SNN package, that can train spiking networks using Tensorflow and then run AltAI. Core of the platform was written in C++. KNP has fully-functional C++ and Python frameworks.
+* [Kaspersky Neuromorphic Platform](https://github.com/KasperskyLab/knp) ⭐ 55 | 🐛 44 | 🌐 C++ | 📅 2026-10-21 - The Kaspersky Neuromorphic Platform or KNP is a software platform for developing, training and executing spiking neural networks on a variety of computers. Platform contains totally spiking package, that allows to build and run spiking networks on CPU or AltAI neuromorphic hardware and ANN2SNN package, that can train spiking networks using Tensorflow and then run AltAI. Core of the platform was written in C++. KNP has fully-functional C++ and Python frameworks.
 * [Fugu](https://github.com/sandialabs/Fugu) ⭐ 42 | 🐛 3 | 🌐 Python | 📅 2026-03-31 - Fugu is a flexible and customizable framework that uses computational neural graphs for optimizing and deploying  architectures across multiple neuromorphic hardware platforms.
 * [spikeflow](https://github.com/colinator/spikeflow) ⭐ 33 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2019-04-21 - Spiking neural networks in tensorflow.
 * [PeleNet](https://github.com/sagacitysite/pelenet) ⭐ 14 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-09-23 - Reservoir computing framework for Loihi.
@@ -53,16 +53,16 @@ A curated list of awesome spiking or neuromorphic frameworks, libraries, resourc
 
 ## ANN2SNN Converters
 
-* [snn\_toolbox](https://github.com/NeuromorphicProcessorProject/snn_toolbox) ⭐ 398 | 🐛 3 | 🌐 Python | 📅 2023-01-13 - The SNN conversion toolbox (SNN-TB) is a framework to transform rate-based artificial neural networks into spiking neural networks, and to run them using various spike encodings.
+* [snn\_toolbox](https://github.com/NeuromorphicProcessorProject/snn_toolbox) ⭐ 399 | 🐛 3 | 🌐 Python | 📅 2023-01-13 - The SNN conversion toolbox (SNN-TB) is a framework to transform rate-based artificial neural networks into spiking neural networks, and to run them using various spike encodings.
 
 ## Robotic Toolkits
 
-* [Unity Robotics Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) ⭐ 2,600 | 🐛 56 | 🌐 C# | 📅 2026-09-22 - list with robotics simulation tools in Unity.
+* [Unity Robotics Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) ⭐ 2,602 | 🐛 56 | 🌐 C# | 📅 2026-09-22 - list with robotics simulation tools in Unity.
 * [DART](https://dart.readthedocs.io/en/latest/) - Dynamic Animation and Robotics Toolkit.
 
 ## Formats
 
-* [NIR](https://github.com/neuromorphs/NIR/) ⭐ 189 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2026-09-28 - set of computational primitives, shared across different neuromorphic frameworks and technology stacks. Currently supported by 9 simulators and 5 hardware platforms, allowing users to seamlessly move between any of these platforms. Reference implementation was written in Python, can save network structure (also supports layers) and events activity.
+* [NIR](https://github.com/neuromorphs/NIR/) ⭐ 190 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2026-09-28 - set of computational primitives, shared across different neuromorphic frameworks and technology stacks. Currently supported by 9 simulators and 5 hardware platforms, allowing users to seamlessly move between any of these platforms. Reference implementation was written in Python, can save network structure (also supports layers) and events activity.
   * [NIR visualizer](https://github.com/open-neuromorphic/nirviz) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-07-03 - turn NIR definitions into a nice graph, the original publication serving as a template.
 * [SONATA](https://github.com/alleninstitute/sonata) ⭐ 69 | 🐛 39 | 🌐 Python | 📅 2025-11-24 - Scalable Open Data Format for multiscale neuronal network models and simulation output, jointly developed by the Allen Institute for Brain Science (AIBS) and the Blue Brain Project (BBP) of the École polytechnique fédérale de Lausanne (EPFL). The design and architecture of SONATA builds on both organizations’ expertise with large-scale high-performance network simulation, visualization and analysis. JSON, CSV used for metadata, HDF5 used for data.
 
@@ -134,9 +134,9 @@ SynSense focuses on the commercialization of neuromorphic intelligence, based on
 
 ## Footnotes
 
-* [Event-based Vision Resources](https://github.com/uzh-rpg/event-based_vision_resources#neuromorphic-systems) ⭐ 3,670 | 🐛 1 | 📅 2026-10-23 - Big articles list.
+* [Event-based Vision Resources](https://github.com/uzh-rpg/event-based_vision_resources#neuromorphic-systems) ⭐ 3,671 | 🐛 1 | 📅 2026-10-23 - Big articles list.
 * [Awesome Neuroscience](https://github.com/realamirhe/awesome-computational-neuro-science) ⭐ 75 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-07-15 - Computational Neuro Science repository.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._

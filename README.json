@@ -43,11 +43,11 @@
             "id": 228557692,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T09:45:03Z",
-            "open_issues": 129,
+            "last_commit": "2026-10-27T04:38:30Z",
+            "open_issues": 127,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2175,
+            "stars": 2176,
             "topics": [
               "deep-learning",
               "dvs",
@@ -71,8 +71,8 @@
             "id": 120948040,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-26T07:25:37Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-26T20:37:33Z",
+            "open_issues": 15,
             "owner": "BindsNET",
             "repo": "bindsnet",
             "stars": 1707,
@@ -108,7 +108,7 @@
             "open_issues": 31,
             "owner": "BrainCog-X",
             "repo": "Brain-Cog",
-            "stars": 663,
+            "stars": 665,
             "topics": [
               "brain-inspired-ai",
               "brain-inspired-computation",
@@ -297,7 +297,7 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-10-21T14:50:13Z",
-            "open_issues": 43,
+            "open_issues": 44,
             "owner": "KasperskyLab",
             "repo": "knp",
             "stars": 55,
@@ -415,7 +415,7 @@
             "open_issues": 3,
             "owner": "NeuromorphicProcessorProject",
             "repo": "snn_toolbox",
-            "stars": 398,
+            "stars": 399,
             "topics": [
               "brian",
               "brian2",
@@ -457,7 +457,7 @@
             "open_issues": 56,
             "owner": "Unity-Technologies",
             "repo": "Unity-Robotics-Hub",
-            "stars": 2600,
+            "stars": 2602,
             "topics": [
               "autonomous-robots",
               "autonomy",
@@ -527,7 +527,7 @@
             "open_issues": 21,
             "owner": "neuromorphs",
             "repo": "NIR",
-            "stars": 189,
+            "stars": 190,
             "topics": [
               "machine-learning",
               "neuromorphic"
@@ -717,7 +717,7 @@
             "open_issues": 1,
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3670,
+            "stars": 3671,
             "topics": []
           },
           "first_seen": "2026-08-28T21:17:23.102Z"
@@ -763,7 +763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T17:04:54.590Z",
+    "last_updated": "2026-10-27T16:08:00.295Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neuromorphic frameworks, libraries, resources, and other things",
