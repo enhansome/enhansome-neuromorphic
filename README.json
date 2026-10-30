@@ -43,11 +43,11 @@
             "id": 228557692,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T07:44:26Z",
-            "open_issues": 129,
+            "last_commit": "2026-10-30T10:13:12Z",
+            "open_issues": 127,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2178,
+            "stars": 2177,
             "topics": [
               "deep-learning",
               "dvs",
@@ -71,11 +71,11 @@
             "id": 120948040,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-29T03:58:33Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-29T22:50:34Z",
+            "open_issues": 9,
             "owner": "BindsNET",
             "repo": "bindsnet",
-            "stars": 1707,
+            "stars": 1706,
             "topics": [
               "dynamic",
               "gpu-computing",
@@ -108,7 +108,7 @@
             "open_issues": 31,
             "owner": "BrainCog-X",
             "repo": "Brain-Cog",
-            "stars": 666,
+            "stars": 668,
             "topics": [
               "brain-inspired-ai",
               "brain-inspired-computation",
@@ -135,7 +135,7 @@
             "open_issues": 45,
             "owner": "genn-team",
             "repo": "genn",
-            "stars": 287,
+            "stars": 286,
             "topics": [
               "computational-neuroscience",
               "hacktoberfest",
@@ -297,7 +297,7 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-10-29T13:14:29Z",
-            "open_issues": 43,
+            "open_issues": 45,
             "owner": "KasperskyLab",
             "repo": "knp",
             "stars": 56,
@@ -415,7 +415,7 @@
             "open_issues": 3,
             "owner": "NeuromorphicProcessorProject",
             "repo": "snn_toolbox",
-            "stars": 399,
+            "stars": 398,
             "topics": [
               "brian",
               "brian2",
@@ -763,7 +763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T17:14:17.467Z",
+    "last_updated": "2026-10-30T16:55:15.585Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neuromorphic frameworks, libraries, resources, and other things",
