@@ -47,7 +47,7 @@
             "open_issues": 126,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2177,
+            "stars": 2178,
             "topics": [
               "deep-learning",
               "dvs",
@@ -763,7 +763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T15:55:35.776Z",
+    "last_updated": "2026-11-01T16:58:09.820Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neuromorphic frameworks, libraries, resources, and other things",
@@ -772,7 +772,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-08-20T18:11:41Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "artiomn",
       "repo": "awesome-neuromorphic",
       "stars": 61,
