@@ -71,7 +71,7 @@
             "id": 120948040,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-29T22:50:34Z",
+            "last_commit": "2026-11-02T18:07:56Z",
             "open_issues": 9,
             "owner": "BindsNET",
             "repo": "bindsnet",
@@ -457,7 +457,7 @@
             "open_issues": 56,
             "owner": "Unity-Technologies",
             "repo": "Unity-Robotics-Hub",
-            "stars": 2605,
+            "stars": 2607,
             "topics": [
               "autonomous-robots",
               "autonomy",
@@ -523,7 +523,7 @@
             "id": 661110494,
             "language": "Jupyter Notebook",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-28T06:57:21Z",
+            "last_commit": "2026-11-02T17:49:47Z",
             "open_issues": 22,
             "owner": "neuromorphs",
             "repo": "NIR",
@@ -578,7 +578,7 @@
             "open_issues": 29,
             "owner": "aestream",
             "repo": "aestream",
-            "stars": 92,
+            "stars": 91,
             "topics": [
               "coroutines",
               "event-camera",
@@ -763,7 +763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T16:58:09.820Z",
+    "last_updated": "2026-11-02T20:35:57.851Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neuromorphic frameworks, libraries, resources, and other things",
