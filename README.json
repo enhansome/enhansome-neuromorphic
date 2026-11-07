@@ -19,7 +19,7 @@
             "open_issues": 28,
             "owner": "mlech26l",
             "repo": "ncps",
-            "stars": 2358,
+            "stars": 2359,
             "topics": [
               "cfc",
               "keras",
@@ -47,7 +47,7 @@
             "open_issues": 127,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2180,
+            "stars": 2181,
             "topics": [
               "deep-learning",
               "dvs",
@@ -328,7 +328,7 @@
             "open_issues": 3,
             "owner": "sandialabs",
             "repo": "Fugu",
-            "stars": 42,
+            "stars": 43,
             "topics": [
               "computation-graphs",
               "nerl-neuromorphic",
@@ -763,7 +763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T17:46:16.760Z",
+    "last_updated": "2026-11-07T16:42:19.064Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neuromorphic frameworks, libraries, resources, and other things",
