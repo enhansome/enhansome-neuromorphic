@@ -43,11 +43,11 @@
             "id": 228557692,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T11:00:41Z",
-            "open_issues": 127,
+            "last_commit": "2026-11-08T16:25:59Z",
+            "open_issues": 128,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2181,
+            "stars": 2182,
             "topics": [
               "deep-learning",
               "dvs",
@@ -457,7 +457,7 @@
             "open_issues": 56,
             "owner": "Unity-Technologies",
             "repo": "Unity-Robotics-Hub",
-            "stars": 2611,
+            "stars": 2612,
             "topics": [
               "autonomous-robots",
               "autonomy",
@@ -527,7 +527,7 @@
             "open_issues": 25,
             "owner": "neuromorphs",
             "repo": "NIR",
-            "stars": 192,
+            "stars": 193,
             "topics": [
               "machine-learning",
               "neuromorphic"
@@ -763,7 +763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T16:42:19.064Z",
+    "last_updated": "2026-11-08T16:52:52.429Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neuromorphic frameworks, libraries, resources, and other things",
