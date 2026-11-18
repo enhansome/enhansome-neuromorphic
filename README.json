@@ -19,7 +19,7 @@
             "open_issues": 28,
             "owner": "mlech26l",
             "repo": "ncps",
-            "stars": 2361,
+            "stars": 2362,
             "topics": [
               "cfc",
               "keras",
@@ -47,7 +47,7 @@
             "open_issues": 131,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2186,
+            "stars": 2187,
             "topics": [
               "deep-learning",
               "dvs",
@@ -296,8 +296,8 @@
             "id": 883826631,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T09:21:21Z",
-            "open_issues": 45,
+            "last_commit": "2026-11-18T13:44:04Z",
+            "open_issues": 47,
             "owner": "KasperskyLab",
             "repo": "knp",
             "stars": 55,
@@ -457,7 +457,7 @@
             "open_issues": 56,
             "owner": "Unity-Technologies",
             "repo": "Unity-Robotics-Hub",
-            "stars": 2617,
+            "stars": 2618,
             "topics": [
               "autonomous-robots",
               "autonomy",
@@ -763,7 +763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T19:30:07.676Z",
+    "last_updated": "2026-11-18T19:12:29.999Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neuromorphic frameworks, libraries, resources, and other things",
