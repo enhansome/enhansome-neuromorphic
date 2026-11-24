@@ -19,7 +19,7 @@
             "open_issues": 28,
             "owner": "mlech26l",
             "repo": "ncps",
-            "stars": 2365,
+            "stars": 2366,
             "topics": [
               "cfc",
               "keras",
@@ -47,7 +47,7 @@
             "open_issues": 127,
             "owner": "fangwei123456",
             "repo": "spikingjelly",
-            "stars": 2187,
+            "stars": 2188,
             "topics": [
               "deep-learning",
               "dvs",
@@ -131,8 +131,8 @@
             "id": 24633934,
             "language": "C++",
             "license": "LGPL-2.1",
-            "last_commit": "2026-11-09T16:46:17Z",
-            "open_issues": 48,
+            "last_commit": "2026-11-24T13:34:11Z",
+            "open_issues": 50,
             "owner": "genn-team",
             "repo": "genn",
             "stars": 287,
@@ -296,11 +296,11 @@
             "id": 883826631,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T23:25:45Z",
-            "open_issues": 44,
+            "last_commit": "2026-11-24T17:56:02Z",
+            "open_issues": 43,
             "owner": "KasperskyLab",
             "repo": "knp",
-            "stars": 54,
+            "stars": 56,
             "topics": [
               "cpp",
               "machine-learning",
@@ -415,7 +415,7 @@
             "open_issues": 3,
             "owner": "NeuromorphicProcessorProject",
             "repo": "snn_toolbox",
-            "stars": 397,
+            "stars": 398,
             "topics": [
               "brian",
               "brian2",
@@ -524,7 +524,7 @@
             "language": "Jupyter Notebook",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-23T14:29:48Z",
-            "open_issues": 25,
+            "open_issues": 35,
             "owner": "neuromorphs",
             "repo": "NIR",
             "stars": 198,
@@ -717,7 +717,7 @@
             "open_issues": 1,
             "owner": "uzh-rpg",
             "repo": "event-based_vision_resources",
-            "stars": 3682,
+            "stars": 3683,
             "topics": []
           },
           "first_seen": "2026-08-28T21:17:23.102Z"
@@ -763,7 +763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T22:22:06.054Z",
+    "last_updated": "2026-11-24T20:57:23.297Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neuromorphic frameworks, libraries, resources, and other things",
